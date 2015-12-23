@@ -1,0 +1,219 @@
+body {
+  font-family: $base-font-family;
+}
+
+h1 {
+  font-family: $title-font-style;
+  padding-left: 20px;
+  font-weight: 900;
+  font-style: italic;
+  color: white;
+}
+
+h1 a {
+  text-decoration: none;
+  color: white;
+}
+
+h1 a:hover {
+  color: white;
+}
+
+h2, h3 {
+  font-family: $title-font-style;
+  font-weight: 700;
+}
+
+.site-header {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.persistent-nav {
+  background-color: #26405B;
+}
+
+nav {
+  padding-right: 20px;
+}
+
+nav a {
+  margin-top: 40px;
+  padding-left: 10px;
+  text-decoration: none;
+  color: $grey-color;
+  font-family: $link-font-family;
+  font-size: 16px;
+  font-weight: 800;
+  float: right;
+}
+
+header .logo {
+  float: left;
+}
+
+header .menu {
+  float: right;
+}
+
+.site-header .wrapper .row nav a:visited {
+  color: $grey-color;
+}
+
+
+.home {
+  position: relative;
+  background-image: url("../images/Code_presentation_background.png");
+  height:100vh;
+  width: 100% !important;
+}
+
+.main-view {
+  @include centerer(true, true);
+}
+
+.profile-image img {
+  border-radius: 50%;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.main-view h2, h3 {
+  color: white;
+  text-align: center;
+  font-family: $title-font-style;
+}
+
+.main-view h2 {
+  font-weight: 700;
+}
+
+.main-view h3 {
+  font-weight: 400;
+}
+
+.social-links {
+  position: absolute;
+  bottom: 0;
+  @include centerer(true, false);
+  overflow: none;
+  width: 375px;
+  padding-bottom: 10px;
+}
+
+.social-links div {
+  padding-left: 25px;
+  padding-right: 25px;
+  float: left;
+  width: 25px;
+  height: 25px;
+  padding-bottom: 25px;
+}
+
+.social-links img {
+  max-width: 100%;
+}
+
+
+.down {
+  font-size: 3em;
+  text-align: center;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: white;
+}
+
+.content-block {
+  clear: both;
+}
+
+.content-block:nth-child(odd) {
+  background-color: #26405B;
+  color: white;
+}
+
+.content-block:nth-child(even) {
+  background-color: white;
+  color: #26405B;
+}
+
+.content-block:nth-child(odd) a {
+  color: #e2e2e2;
+}
+
+.content-block:nth-child(odd) .down a {
+  color: white;
+}
+
+.content-block:nth-child(even) .down a {
+  color: #26405B;
+}
+
+.content-block:nth-child(even) h2 {
+  color: #26405B;
+}
+
+.content-block .wrapper {
+  height: 100vh;
+}
+
+.content-block .wrapper .content {
+  @include centerer(true, true);
+}
+
+.content-block .down {
+  position: absolute;
+  bottom: 0;
+  @include centerer(true, false);
+}
+
+footer {
+  color: white;
+  background-color: #26405B;
+}
+
+footer .container {
+  text-align: center;
+  display: table;
+  height: 100px;
+}
+
+footer p {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#menu-icon {
+  display: none;
+  color: white;
+}
+
+/* For responsive menu */
+@media (max-width: 768px) {
+  nav a {
+    float: none;
+    display: block;
+    margin-top: 30px;
+    padding-left: 40px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  nav {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: none;
+
+  }
+
+  #menu-icon {
+    display: block;
+    padding: 25px;
+  }
+}

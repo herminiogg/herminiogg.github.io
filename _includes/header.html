@@ -1,0 +1,20 @@
+<header class="site-header">
+  <div class="wrapper">
+   <div class="">
+    <div class="logo">
+      <h1><a href="{{ "" | prepend: site.baseurl }}">Herminio García</a></h1>
+    </div>
+    <a id="menu-icon" class="page-link u-pull-right"><i class="fa fa-bars fa-2x"></i></a>
+    <nav class="menu">
+      {% for my_page in site.pages %}
+        {% if my_page.title %}
+        <!--<a class="page-link u-pull-right" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>-->
+        {% endif %}
+      {% endfor %}
+      <a class="page-link" href="#photography">Hobbies</a>
+      <a class="page-link" href="#experience">Experience</a>
+      <a class="page-link " href="#who-am-i">Who am I?</a>
+    </nav>
+    </div>
+  </div>
+</header>
