@@ -50,14 +50,19 @@ $on-laptop:        800px;
 }
 
 @mixin centerer($horizontal: true, $vertical: true) {
-  display: flex;
-  @else if ($horizontal) {
-    justify-content: center;
-  @else if ($vertical) {
-    align-items: center;
+  position: absolute;
+  @if ($horizontal and $vertical) {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  } @else if ($horizontal) {
+    left: 50%;
+    transform: translate(-50%, 0);
+  } @else if ($vertical) {
+    top: 50%;
+    transform: translate(0, -50%);
   }
 }
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
