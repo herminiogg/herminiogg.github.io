@@ -68,17 +68,21 @@ header .menu {
   background-image: url("../images/Code_presentation_background.png");
   min-height:100vh;
   width: 100% !important;
+  display: table;
 }
 
 .main-view {
-  @include centerer(true, true);
+  display: table-cell;
+  vertical-align: middle;
 }
 
 .profile-image img {
+  display: block;
   border-radius: 50%;
   width: 50%;
-  margin-left: 25%;
-  margin-right: 25%;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .main-view h2, h3 {
@@ -98,8 +102,12 @@ header .menu {
 .social-links {
   position: absolute;
   bottom: 0;
-  @include centerer(true, false);
+  //@include centerer(true, false);
   overflow: none;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
   width: 375px;
   padding-bottom: 10px;
 }
@@ -117,10 +125,23 @@ header .menu {
   max-width: 100%;
 }
 
+.first-down {
+  font-size: 3em;
+}
 
 .down {
   font-size: 3em;
+  /**text-align: center;
+  display: table-cell;
+  vertical-align: bottom;*/
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
+
 }
 
 .social-links a {
@@ -130,6 +151,7 @@ header .menu {
 
 .content-block {
   clear: both;
+  min-height: 100vh;
 }
 
 .content-block:nth-child(odd) {
@@ -159,17 +181,15 @@ header .menu {
 }
 
 .content-block .wrapper {
+  display: table;
+  max-width: 500px;
   min-height: 100vh;
 }
 
 .content-block .wrapper .content {
-  @include centerer(true, true);
-}
-
-.content-block .down {
-  position: absolute;
-  bottom: 0;
-  @include centerer(true, false);
+  //@include centerer(true, true);
+  display: table-cell;
+  vertical-align: middle;
 }
 
 footer {
@@ -219,5 +239,7 @@ footer p {
 
   .content-block img {
     max-width: 300px;
+    display: block;
+    margin: 10px auto;
   }
 }
