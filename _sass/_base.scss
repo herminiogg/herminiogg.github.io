@@ -32,7 +32,7 @@ h2, h3 {
 }
 
 .persistent-nav {
-  background-color: #26405B;
+  background-color: #CA6E45;
 }
 
 nav {
@@ -43,11 +43,15 @@ nav a {
   margin-top: 40px;
   padding-left: 10px;
   text-decoration: none;
-  color: $grey-color;
+  color: white;
   font-family: $link-font-family;
   font-size: 16px;
   font-weight: 800;
   float: right;
+}
+
+nav a:hover {
+  color: #fcdc9c;
 }
 
 header .logo {
@@ -65,7 +69,12 @@ header .menu {
 
 .home {
   position: relative;
-  background-image: url("../images/Code_presentation_background.png");
+  background-color: rgba(0, 0, 0, 0.3);
+  background-image: url("../images/river.jpg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
+
   min-height:100vh;
   width: 100% !important;
   display: table;
@@ -152,7 +161,7 @@ header .menu {
 }
 
 .content-block:nth-child(odd) {
-  background-color: #26405B;
+  background-color: #CA6E45;
   color: white;
 }
 
@@ -162,7 +171,16 @@ header .menu {
 }
 
 .content-block:nth-child(odd) a {
-  color: #e2e2e2;
+  color: #e8e8e8;
+}
+
+.content-block:nth-child(odd) .button {
+  border-color: #e8e8e8;
+}
+
+.content-block:nth-child(odd) a:hover {
+  border-color: white;
+  color: white;
 }
 
 .content-block:nth-child(odd) .down a {
@@ -170,11 +188,11 @@ header .menu {
 }
 
 .content-block:nth-child(even) .down a {
-  color: #26405B;
+  color: #CA6E45;
 }
 
 .content-block:nth-child(even) h2 {
-  color: #26405B;
+  color: #CA6E45;
 }
 
 .content-block .wrapper {
@@ -191,7 +209,7 @@ header .menu {
 
 footer {
   color: white;
-  background-color: #26405B;
+  background-color: #CA6E45;
 }
 
 footer .container {
