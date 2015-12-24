@@ -131,9 +131,6 @@ header .menu {
 
 .down {
   font-size: 3em;
-  /**text-align: center;
-  display: table-cell;
-  vertical-align: bottom;*/
   position: absolute;
   bottom: 0;
   left: 0;
@@ -161,7 +158,7 @@ header .menu {
 
 .content-block:nth-child(even) {
   background-color: white;
-  color: #26405B;
+  //color: #26405B;
 }
 
 .content-block:nth-child(odd) a {
