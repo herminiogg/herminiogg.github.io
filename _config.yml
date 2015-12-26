@@ -10,9 +10,15 @@ title: Herminio García's Webpage
 email: herminiogg@outlook.com
 description: Herminio García personal webpage. I am a Web and Software Engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://herminiogg.github.io" # the base hostname & protocol for your site
 twitter_username: herminio_gg
 github_username:  herminiogg
 
 # Build settings
 markdown: kramdown
+
+
+# Author Details
+author: 'Herminio García González'
+
+permalink: /blog/:year/:month/:day/:title/
