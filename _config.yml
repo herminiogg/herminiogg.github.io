@@ -62,13 +62,13 @@ t:
     title: Herminio García
     blog: Blog
     hobbies: Aficiones
-    hobbies-url: "#fotografia"
+    hobbies-url: "/es/#fotografia"
     hobbies-section: "fotografia"
     experience: Experiencia
-    experience-url: "#experiencia"
+    experience-url: "/es/#experiencia"
     experience-section: experiencia
     who-am-i: ¿Quién soy?
-    who-am-i-url: "#quien-soy"
+    who-am-i-url: "/es/#quien-soy"
     who-am-i-section: "quien-soy"
     name: Herminio García González
     description: Estudiante del Máster en Ingeniería Web de la Universidad de Oviedo
