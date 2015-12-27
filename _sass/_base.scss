@@ -2,6 +2,10 @@ body {
   font-family: $base-font-family;
 }
 
+p {
+  margin-bottom: 20px;
+}
+
 h1 {
   font-family: $title-font-style;
   padding-left: 20px;
@@ -24,6 +28,8 @@ h2, h3 {
   font-weight: 700;
 }
 
+
+
 .site-header {
   position: fixed;
   z-index: 1;
@@ -33,10 +39,6 @@ h2, h3 {
 
 .persistent-nav {
   background-color: #CA6E45;
-}
-
-nav {
-  padding-right: 20px;
 }
 
 nav a {
@@ -117,13 +119,13 @@ header .menu {
   right: 0;
   margin-left: auto;
   margin-right: auto;
-  width: 375px;
+  width: 325px;
   padding-bottom: 10px;
 }
 
 .social-links div {
-  padding-left: 25px;
-  padding-right: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
   float: left;
   width: 25px;
   height: 25px;
@@ -228,6 +230,35 @@ footer p {
   color: white;
 }
 
+@media (min-width: 768px) {
+  nav {
+    padding-right: 250px;
+  }
+
+  .languages {
+    position: absolute;
+    left: 88%;
+    margin-top: 40px;
+  }
+
+  .languages a, .languages i {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    padding-left: 10px;
+    font-weight: 800;
+    margin-top: 0px;
+  }
+
+  .languages a {
+    font-family: $link-font-family;
+  }
+
+  .languages a:hover {
+    color: #fcdc9c;
+  }
+}
+
 /* For responsive menu */
 @media (max-width: 768px) {
   nav a {
@@ -239,12 +270,23 @@ footer p {
     margin-bottom: 10px;
   }
 
+  .languages {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-right: 20px;
+  }
+
+  .languages a, .languages i {
+    display: inline;
+    color: white;
+  }
+
   nav {
     width: 60%;
     margin-left: 20%;
     margin-right: 20%;
     display: none;
-
   }
 
   #menu-icon {

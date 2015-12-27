@@ -2,7 +2,7 @@
   <div class="wrapper">
    <div class="">
     <div class="logo">
-      <h1><a href="{{ "" | prepend: site.url }}">Herminio García</a></h1>
+      <h1><a href="{{ site.t[page.lang].title-url| prepend: site.url }}">Herminio García</a></h1>
     </div>
     <a id="menu-icon" class="page-link u-pull-right"><i class="fa fa-bars fa-2x"></i></a>
     <nav class="menu">
@@ -11,9 +11,15 @@
         <!--<a class="page-link u-pull-right" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>-->
         {% endif %}
       {% endfor %}
-      <a class="page-link" href="{{ "#photography" | prepend: site.url }}">Hobbies</a>
-      <a class="page-link" href="{{ "#experience" | prepend: site.url }}">Experience</a>
-      <a class="page-link " href="{{ "#who-am-i" | prepend: site.url }}">Who am I?</a>
+      <a class="page-link " href="{{ site.t[page.lang].blog-url | prepend: site.url }}">{{site.t[page.lang].blog-name}}</a>
+      <a class="page-link" href="{{ site.t[page.lang].hobbies-url | prepend: site.url }}">{{site.t[page.lang].hobbies}}</a>
+      <a class="page-link" href="{{ site.t[page.lang].experience-url | prepend: site.url }}">{{site.t[page.lang].experience}}</a>
+      <a class="page-link " href="{{ site.t[page.lang].who-am-i-url | prepend: site.url }}">{{site.t[page.lang].who-am-i}}</a>
+      <div class="languages">
+        <i class="fa fa-globe"></i>
+        <a class="page-link " href="{{ site.t['en'].title-url | prepend: site.url }}">en</a>
+        <a class="page-link " href="{{ site.t['es'].title-url | prepend: site.url }}">es</a>
+      </div>
     </nav>
     </div>
   </div>

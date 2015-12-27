@@ -11,6 +11,22 @@ layout: default-page
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </div>
 
+  <div class="post-related">
+      {% assign posts=site.posts | where:"name", page.name | sort: 'path' %}
+      <ul>
+      {% for post in posts %}
+          <li class="lang">
+              {% if post.lang == 'en' %}
+              <a href="{{ post.url }}" class="{{ post.lang }}">English version</a>
+              {% endif %}
+              {% if post.lang == 'es' %}
+              <a href="{{ post.url }}" class="{{ post.lang }}">Versión en español</a>
+              {% endif %}
+          </li>
+      {% endfor %}
+      </ul>
+  </div>
+
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>

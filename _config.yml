@@ -22,3 +22,76 @@ markdown: kramdown
 author: 'Herminio García González'
 
 permalink: /blog/:year/:month/:day/:title/
+
+
+# translation
+t:
+  en:
+    title-name: Herminio García
+    title-url: "/"
+    blog-name: Blog
+    blog-url: "/blog"
+    hobbies: Hobbies
+    hobbies-url: "#photography"
+    hobbies-section: "photography"
+    experience: Experience
+    experience-url: "#experience"
+    experience-section: experience
+    who-am-i: Who am I?
+    who-am-i-url: "#who-am-i"
+    who-am-i-section: "who-am-i"
+    name: Herminio García González
+    description: MSc student in Web Engineering at University of Oviedo
+    who-am-i-text: I am a student of the University of Oviedo. Nowadays I am finishing my MSc in Web Engineering. I also have a Bachelor Degree in Software Engineering by the same university. I am interested in new technologies and how they can benefit my daily work.
+    contact-me: Contact me
+    experience: Experience
+    experience-text: I have been working with
+    experience-text-2: "in various projects including: "
+    experience-text-3: and
+    experience-text-4: Apart from that I have worked in groups in many projects for the University of Oviedo during my studies.
+    linkedin: linkedin
+    github: github
+    photography: Photography
+    photography-text: When I have free time I take my camera to relax. Feel free to visit my Flickr.
+    flickr: Flickr
+  es:
+    title-name: Herminio García
+    title-url: "/es"
+    blog-name: Blog
+    blog-url: "/es/blog"
+    title: Herminio García
+    blog: Blog
+    hobbies: Aficiones
+    hobbies-url: "#fotografia"
+    hobbies-section: "fotografia"
+    experience: Experiencia
+    experience-url: "#experiencia"
+    experience-section: experiencia
+    who-am-i: ¿Quién soy?
+    who-am-i-url: "#quien-soy"
+    who-am-i-section: "quien-soy"
+    name: Herminio García González
+    description: Estudiante del Máster en Ingeniería Web de la Universidad de Oviedo
+    who-am-i-text: Soy un estudiante de la Universidad de Oviedo. En estos momentos estoy acabando mi Máster en Ingeniería Web. También soy Ingeniero Informático del Software por la misma universidad. Estoy interesado en las nuevas tecnologías y cómo estas pueden beneficiar a mi trabajo diario.
+    contact-me: Contactar
+    experience-text: He trabajo con
+    experience-text-2: "en varios proyectos entre los cuales están:"
+    experience-text-3: y
+    experience-text-4: Además de esto también he trabajo en grupos en varios proyectos durante mis estudios en la Universidad de Oviedo.
+    linkedin: linkedin
+    github: github
+    photography: Fotografía
+    photography-text: Cuando tengo tiempo libre me gusta coger mi cámara para relajar. Siéntete libre de visitar mi Flickr.
+    flickr: Flickr
+
+defaults:
+    scope:
+      path: _posts/en
+    values:
+      layout: post
+      lang: en
+    scope:
+      path: _posts/es
+    values:
+      layout: post
+      lang: es

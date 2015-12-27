@@ -1,0 +1,26 @@
+---
+layout: default-page
+---
+<div class="post-head">
+  <h2>{{site.t[page.lang].blog-name}}</h2>
+</div>
+<div class="container">
+  <div class="content">
+    <ul>
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.posts %}
+      {% if page.lang == post.lang %}
+      <li>
+        {% if page.lang == 'en'%}
+            <a href="{{ post.url }}">{{ post.title }} <i>{{ post.date | date: "%b %-d, %Y" }}</i></a>
+        {% endif %}
+
+        {% if page.lang == 'es' %}
+            <a href="{{ post.url }}">{{ post.title }} <i>{{ post.date | date: "%-d %b %Y" }}</i></a>
+        {% endif %}
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>

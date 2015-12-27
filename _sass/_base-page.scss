@@ -2,6 +2,10 @@ body {
   font-family: $base-font-family;
 }
 
+p {
+  margin-bottom: 20px;
+}
+
 h1 {
   font-family: $title-font-style;
   padding-left: 20px;
@@ -99,6 +103,24 @@ header .menu {
   color: #a0a0a0;
 }
 
+.post-related li {
+  float: left;
+  list-style-type: none;
+}
+
+.post-related li:nth-child(even) {
+  padding-left: 10px;
+}
+
+.post-related li:nth-child(odd) {
+  padding-right: 10px;
+}
+
+.post-content {
+  padding-top: 10px;
+  clear: both;
+}
+
 footer {
   color: white;
   background-color: #CA6E45;
@@ -120,6 +142,35 @@ footer p {
   color: white;
 }
 
+@media (min-width: 768px) {
+  nav {
+    padding-right: 250px;
+  }
+
+  .languages {
+    position: absolute;
+    left: 88%;
+    margin-top: 40px;
+  }
+
+  .languages a, .languages i {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    padding-left: 10px;
+    font-weight: 800;
+    margin-top: 0px;
+  }
+
+  .languages a {
+    font-family: $link-font-family;
+  }
+
+  .languages a:hover {
+    color: #fcdc9c;
+  }
+}
+
 /* For responsive menu */
 @media (max-width: 768px) {
   nav a {
@@ -136,7 +187,18 @@ footer p {
     margin-left: 20%;
     margin-right: 20%;
     display: none;
+  }
 
+  .languages {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-right: 20px;
+  }
+
+  .languages a, .languages i {
+    display: inline;
+    color: white;
   }
 
   #menu-icon {

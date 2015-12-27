@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<div class="home">
+  <div class="main-view">
+    <!--<div class="profile-image">
+      <img src="{{ "/images/profile-image.png" | prepend: site.baseurl }}" alt="Profile image">
+    </div>-->
+    <div>
+      <h2>{{site.t[page.lang].name}}</h2>
+      <h3>{{site.t[page.lang].description}}</h3>
+    </div>
+  </div>
+  <div class="social-links">
+    <div class=""><a href="https://twitter.com/herminio_gg"><i class="fa fa-twitter fa-2x"></i></a></div>
+    <div class=""><a href="https://es.linkedin.com/in/herminio-garc%C3%ADa-gonz%C3%A1lez-83aa2678"><i class="fa fa-linkedin fa-2x"></i></a></div>
+    <div class="first-down"><a href="{{site.t[page.lang].who-am-i-url}}"><i class="fa fa-angle-down"></i></a></div>
+    <div class=""><a href="https://github.com/herminiogg"><i class="fa fa-github fa-2x"></i></div>
+    <div class=""><a href="mailto:herminiogg@outlook.com"><i class="fa fa-envelope fa-2x"></i></a></div>
+  </div>
+</div>
+<div id="{{site.t[page.lang].who-am-i-section}}" class="content-block">
+  <div class="wrapper container">
+    <div class="content">
+      <h2>{{site.t[page.lang].who-am-i}}</h2>
+      <p>
+        {{site.t[page.lang].who-am-i-text}}
+      </p>
+      <a class="button u-full-width" href="mailto:herminiogg@outlook.com"><i class="fa fa-envelope"></i> {{site.t[page.lang].contact-me}}</a>
+    </div>
+    <div class="down"><a href="{{site.t[page.lang].experience-url}}"><i class="fa fa-angle-down"></i></a></div>
+  </div>
+</div>
+  <div id="{{site.t[page.lang].experience-section}}" class="content-block">
+    <div class="wrapper container">
+      <div class="content">
+        <h2>{{site.t[page.lang].experience}}</h2>
+        <p>
+          {{site.t[page.lang].experience-text}} <a href="http://weso.es">WESO Research Group</a> {{site.t[page.lang].experience-text-2}} <a href="http://landportal.info">Landportal</a>, <a href="http://a4ai.org/affordability-report/">Affordability Index 2014</a> {{site.t[page.lang].experience-text-3}} LODLearning. {{site.t[page.lang].experience-text-4}}
+        </p>
+        <div class="row">
+          <a class="button one-half column" href="https://es.linkedin.com/in/herminio-garc%C3%ADa-gonz%C3%A1lez-83aa2678"><i class="fa fa-linkedin-square"></i> {{site.t[page.lang].linkedin}}</a>
+          <a class="button one-half column" href="https://github.com/herminiogg"><i class="fa fa-github"></i> {{site.t[page.lang].github}}</a>
+        </div>
+      </div>
+      <div class="down"><a href="{{site.t[page.lang].hobbies-url}}"><i class="fa fa-angle-down"></i></a></div>
+    </div>
+  </div>
+  <div id="{{site.t[page.lang].hobbies-section}}" class="content-block">
+    <div class="wrapper container">
+      <div class="content">
+        <h2>{{site.t[page.lang].photography}}</h2>
+        <p>
+          {{site.t[page.lang].photography-text}}
+        </p>
+        <a href="https://www.flickr.com/photos/130598747@N08/"><img src="{{ "/images/ciudad_artes_valencia.jpg" | prepend: site.baseurl }}" alt="Valencia Photo" /></a>
+        <a class="button u-full-width" href="https://www.flickr.com/photos/130598747@N08/"><i class="fa fa-flickr"></i> {{site.t[page.lang].flickr}}</a>
+      </div>
+      <div class="down"><a href="#footer"><i class="fa fa-angle-down"></i></a></div>
+    </div>
+  </div>
+</div>
