@@ -56,7 +56,7 @@ Olvidaos del nombre de esta asignatura porque los contenidos no tienen nada que 
 
 En esta asignatura se vio como usar Hadoop y específicamente el algoritmo Map-Reduce dentro del mismo. La entrega era un conjunto de ejercicios sobre Hadoop dentro de Amazon Web Services y Azure.
 
-Me pareció muy acertado el cambio de contenido con el fin de dar cosas nuevas. Lo que fue un poco lamentable fue el tener que pagar por el uso de AWS, problemas de presupuesto e infraestructura del momento. Así que ya sabéis, afilad vuestras tarjetas de crédito y no seáis imprudentes con el uso que hacéis de ello. La factura media para la asignatura creo que fue de unos 3€.
+Me pareció muy acertado el cambio de contenido con el fin de dar cosas nuevas. Lo que fue un poco lamentable fue el tener que pagar por el uso de AWS, problemas de presupuesto e infraestructura del momento. Así que ya sabéis, preparad vuestras tarjetas de crédito y no seáis imprudentes con el uso que hacéis de ello. La factura media para la asignatura creo que fue de unos 3€.
 
 ### Usabilidad, accesibilidad y adaptabilidad de sitios web
 Buenas prácticas de usabilidad, accesibilidad y adaptabilidad. Cómo evaluar sitios web según una metodología específica, herramientas para esto y cómo hacer informes con todos estos datos. Los ejercicios eran dos informes de usabilidad y accesibilidad y corregir problemas de usabilidad y accesibilidad en la página web personal creada en la segunda asignatura.
