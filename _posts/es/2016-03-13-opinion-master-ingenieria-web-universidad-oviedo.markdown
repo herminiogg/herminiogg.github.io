@@ -148,7 +148,7 @@ Destacar, como ya hice en la otra asignatura, el uso del inglés. Además en est
 
 Como se puede ver hay cosas buenas y malas y creo que es justo decir que mereció la pena cursar el máster. Creo que las cosas buenas y lo aprendido resaltan mucho más que los momentos malos. A fin de cuentas, nada es perfecto.
 
-Hasta aquí la descripción de las asignaturas y mi opinión sobre ellas. Hay que tener en cuenta que alguno de los contenidos de las asignaturas puede haber cambiado. Espero que este post os pueda ayudar en algo si estáis en duda si cursar estos estudios o no. Si me acuerdo de algo más o creo que haya algo interesante que añadir, editaré este post.
+Hasta aquí la descripción de las asignaturas y mi opinión sobre ellas. Hay que tener en cuenta que alguno de los contenidos de las asignaturas puede haber cambiado. Espero que este post os pueda ayudar en algo si estáis en duda si cursar estos estudios o no. Si me acuerdo de algo más o creo que haya algo interesante que añadir editaré este post.
 
 Un abrazo,  
 Herminio García
