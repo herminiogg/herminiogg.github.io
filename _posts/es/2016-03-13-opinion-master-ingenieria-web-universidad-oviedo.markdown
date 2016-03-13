@@ -56,7 +56,7 @@ Olvidaos del nombre de esta asignatura porque los contenidos no tienen nada que 
 
 En esta asignatura se vio como usar Hadoop y específicamente el algoritmo Map-Reduce dentro del mismo. La entrega era un conjunto de ejercicios sobre Hadoop dentro de Amazon Web Services y Azure.
 
-Me pareció muy acertado el cambio de contenido con el fin de dar cosas nuevas. Lo que fue un poco lamentable fue el tener que pagar por el uso de AWS, problemas de presupuesto e infraestructura del momento. Así que ya sabéis afilad vuestras tarjetas de crédito y no seáis imprudentes con el uso que hacéis de ello. La factura media para la asignatura creo que fue de unos 3€.
+Me pareció muy acertado el cambio de contenido con el fin de dar cosas nuevas. Lo que fue un poco lamentable fue el tener que pagar por el uso de AWS, problemas de presupuesto e infraestructura del momento. Así que ya sabéis, afilad vuestras tarjetas de crédito y no seáis imprudentes con el uso que hacéis de ello. La factura media para la asignatura creo que fue de unos 3€.
 
 ### Usabilidad, accesibilidad y adaptabilidad de sitios web
 Buenas prácticas de usabilidad, accesibilidad y adaptabilidad. Cómo evaluar sitios web según una metodología específica, herramientas para esto y cómo hacer informes con todos estos datos. Los ejercicios eran dos informes de usabilidad y accesibilidad y corregir problemas de usabilidad y accesibilidad en la página web personal creada en la segunda asignatura.
@@ -91,7 +91,7 @@ En esta asignatura se profundizó en las leyes que afectan a la informática com
 La parte mala de esta asignatura es que fue un subconjunto de la asignatura homóloga del grado.
 
 ### Difusión de contenidos multimedia vía web
-En esta asignatura se vio como montar un servicio web para difusión de vídeo y audio online. Como parte de la entrega final se pedía la elaboración de una página con dos plugins multimedia para mostrar vídeos de Plex, HTML5 y montar una radio online. Además de esto se pedía la realización de un vídeo. Todo esto en grupos de tres personas.
+En esta asignatura se vio como montar un servicio web para difusión de vídeo y audio online. Como parte de la entrega final se pedía la elaboración de una página con dos plugins multimedia de Wordpress para mostrar vídeos de Plex, HTML5 y montar una radio online. Además de esto se pedía la realización de un vídeo. Todo esto en grupos de tres personas.
 
 Aunque la asignatura sólo duró una semana, tengo un grato recuerdo de la asignatura y sobre todo de la realización del vídeo del cual os pondré aquí el link si mis compañeros me lo permiten.
 
@@ -148,7 +148,7 @@ Destacar, como ya hice en la otra asignatura, el uso del inglés. Además en est
 
 Como se puede ver hay cosas buenas y malas y creo que es justo decir que mereció la pena cursar el máster. Creo que las cosas buenas y lo aprendido resaltan mucho más que los momentos malos. A fin de cuentas, nada es perfecto.
 
-Hasta aquí la descripción de las asignaturas y mi opinión sobre ellas. Espero que este post os pueda ayudar en algo si estáis en duda si cursar estos estudios o no. Si me acuerdo de algo más o creo que haya algo interesante que añadir, editaré este post.
+Hasta aquí la descripción de las asignaturas y mi opinión sobre ellas. Hay que tener en cuenta que alguno de los contenidos de las asignaturas puede haber cambiado. Espero que este post os pueda ayudar en algo si estáis en duda si cursar estos estudios o no. Si me acuerdo de algo más o creo que haya algo interesante que añadir, editaré este post.
 
 Un abrazo,  
 Herminio García
