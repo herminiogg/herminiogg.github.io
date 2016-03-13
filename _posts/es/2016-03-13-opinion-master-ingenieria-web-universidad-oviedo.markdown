@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mi opinión sobre el Máster de Ingeniería Web de la Universidad de Oviedo"
-date:   2016-03-13 13:30:00+0100
+date:   2016-03-13 14:00:00+0100
 categories: studies
 author: "Herminio García González"
 lang: es
