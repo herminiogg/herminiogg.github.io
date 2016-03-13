@@ -26,8 +26,10 @@ h1 a:hover {
 h2, h3 {
   font-family: $title-font-style;
   font-weight: 700;
-  font-style: italic;
+  font-style: normal;
+  color: #CA6E45;
 }
+
 
 .site-header {
   position: fixed;
