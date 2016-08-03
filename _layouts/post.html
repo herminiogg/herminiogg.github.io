@@ -5,10 +5,11 @@ layout: default-page
 <div class="post-head">
   <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2>
 </div>
-<article class="post container" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post container">
 
   <div class="post-header">
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <p><span id="min-read"></span> {{site.t[page.lang].min-read}}</p>
   </div>
 
   <div class="post-related">
@@ -32,3 +33,64 @@ layout: default-page
   </div>
 
 </article>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": "{{ page.url }}",
+    "headline": "{{ page.title }}",
+    "datePublished": "{{ page.date | date: '%b %-d, %Y' }}",
+    "dateModified": "{{ page.dateModified | date: '%b %-d, %Y' }}",
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ page.image }}",
+      "height": "{{ page.imageHeight }}",
+      "width": "{{ page.imageWidth }}"
+    },
+    "description": "{{ page.description }}",
+    "publisher": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "email": "mailto:herminiogg@outlook.com",
+          "name": "Herminio García",
+          "url": "http://herminiogarcia.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "http://herminiogarcia.com/images/profile-image.png"
+          },
+          "sameAs": [
+            "https://twitter.com/herminio_gg",
+            "https://es.linkedin.com/in/herminio-garc%C3%ADa-gonz%C3%A1lez-83aa2678",
+            "https://github.com/herminiogg",
+            "https://plus.google.com/+HerminioGarc%C3%ADaGonz%C3%A1lez"
+          ]
+        },
+    "author": {
+          "@context": "http://schema.org",
+          "@type": "Person",
+          "email": "mailto:herminiogg@outlook.com",
+          "image": "http://herminiogarcia.com/images/profile-image.png",
+          "name": "Herminio García González",
+          "url": "http://herminiogarcia.com",
+          "jobTitle": "PhD Student",
+          "memberOf": {
+            "@type": "Organization",
+            "name": "University of Oviedo",
+            "url": "http://www.uniovi.es"
+          },
+          "alumniOf": {
+            "@type": "Organization",
+            "name": "University of Oviedo",
+            "url": "http://www.uniovi.es"
+          },
+          "sameAs": [
+            "https://twitter.com/herminio_gg",
+            "https://es.linkedin.com/in/herminio-garc%C3%ADa-gonz%C3%A1lez-83aa2678",
+            "https://github.com/herminiogg",
+            "https://plus.google.com/+HerminioGarc%C3%ADaGonz%C3%A1lez"
+          ]
+        }
+    }
+  }
+  </script>

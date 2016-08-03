@@ -29,6 +29,7 @@ t:
   en:
     title-name: Herminio García
     title-url: "/"
+    description: Herminio García personal webpage. PhD student in Computer Science at University of Oviedo.
     blog-name: Blog
     blog-url: "/blog"
     hobbies: Hobbies
@@ -41,8 +42,8 @@ t:
     who-am-i-url: "#who-am-i"
     who-am-i-section: "who-am-i"
     name: Herminio García González
-    description: MSc student in Web Engineering at University of Oviedo
-    who-am-i-text: I am a student of the University of Oviedo. Nowadays I am finishing my MSc in Web Engineering. I also have a Bachelor Degree in Software Engineering by the same university. I am interested in new technologies and how they can benefit my daily work.
+    description: PhD student in Computer Science at University of Oviedo
+    who-am-i-text: I am a PhD student at the University of Oviedo. I obtained my MSc in Web Engineering by the University of Oviedo in 2016 and I also have a Bachelor Degree in Software Engineering by the same university. My current research interests are Web Semantics, e-Learning and Big Data.
     contact-me: Contact me
     experience: Experience
     experience-text: I have been working with
@@ -54,9 +55,11 @@ t:
     photography: Photography
     photography-text: When I have free time I take my camera to relax. Feel free to visit my Flickr.
     flickr: Flickr
+    min-read: min read
   es:
     title-name: Herminio García
     title-url: "/es"
+    description: Página web personal de Herminio García, estudiante del doctorado en Ingeniería Informática en la Universidad de Oviedo.
     blog-name: Blog
     blog-url: "/es/blog"
     title: Herminio García
@@ -71,8 +74,8 @@ t:
     who-am-i-url: "/es/#quien-soy"
     who-am-i-section: "quien-soy"
     name: Herminio García González
-    description: Estudiante del Máster en Ingeniería Web de la Universidad de Oviedo
-    who-am-i-text: Soy un estudiante de la Universidad de Oviedo. En estos momentos estoy acabando mi Máster en Ingeniería Web. También soy Ingeniero Informático del Software por la misma universidad. Estoy interesado en las nuevas tecnologías y cómo estas pueden beneficiar a mi trabajo diario.
+    description: Estudiante del doctorado en Ingeniería Informática de la Universidad de Oviedo
+    who-am-i-text: Soy un estudiante de doctorado de la Universidad de Oviedo. Obtuve mi Máster en Ingeniería Web por la Universidad de Oviedo en 2016. También soy Ingeniero Informático del Software por la misma universidad. Mi areas de investigación de interes son la Web Semántica, e-Learning y Big Data.
     contact-me: Contactar
     experience-text: He trabajo con
     experience-text-2: "en varios proyectos entre los cuales están:"
@@ -83,6 +86,7 @@ t:
     photography: Fotografía
     photography-text: Cuando tengo tiempo libre me gusta coger mi cámara para relajar. Siéntete libre de visitar mi Flickr.
     flickr: Flickr
+    min-read: minutos de lectura
 
 defaults:
     scope:

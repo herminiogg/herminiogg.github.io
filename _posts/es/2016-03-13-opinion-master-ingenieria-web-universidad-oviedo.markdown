@@ -2,10 +2,15 @@
 layout: post
 title:  "Mi opinión sobre el Máster de Ingeniería Web de la Universidad de Oviedo"
 date:   2016-03-13 14:00:00+0100
+dateModified: 2016-03-13 14:00:00+0100
 categories: studies
 author: "Herminio García González"
 lang: es
 name: master-computing-university-oviedo-web
+image: "http://herminiogarcia.com/images/eii.jpg"
+imageHeight: 275
+imageWidth: 696
+description: "Artículo de opinión sobre el Máster de Ingeniería Web de la Universidad de Oviedo en el que describo como es el Máster y doy mi opinión sobre como ha sido mi paso por él con sus cosas buenas y malas."
 ---
 
 Habiendo acabado las clases del Máster de Ingeniería Web y dado que ya sólo me resta realizar el Trabajo Fin de Máster creo que es un buen momento para hacer una reseña sobre cuáles son mis impresiones. Lo que me ha motivado a hacer este artículo ha sido la mala fama que parece haber cogido dicho Máster entre los estudiantes del [Grado en Ingeniería Informática](http://ingenieriainformatica.uniovi.es/web/ingenieriainformatica/infoacademica/grado) de la misma universidad y que se imparte en la misma escuela, además espero que sirva a todos aquellos que estén pensando en cursarlo. No me voy a meter en si esta mala fama es infundada o no, lo que quiero es dar la visión de alguien que ha hecho este máster y qué cosas creo que están bien, están mal o se pueden mejorar.

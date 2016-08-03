@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.t[page.lang].description }}{% endif %}">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
@@ -21,10 +21,27 @@
     {
       "@context": "http://schema.org",
       "@type": "Person",
-      "email": "herminiogg@outlook.com",
-      "image": "{{ "/images/profile-image.png" | prepend: site.baseurl }}",
+      "email": "mailto:herminiogg@outlook.com",
+      "image": "http://herminiogarcia.com/images/profile-image.png",
       "name": "Herminio García González",
-      "url": "http://herminiogarcia.com"
+      "url": "http://herminiogarcia.com",
+      "jobTitle": "PhD Student",
+      "memberOf": {
+        "@type": "Organization",
+        "name": "University of Oviedo",
+        "url": "http://www.uniovi.es"
+      },
+      "alumniOf": {
+        "@type": "Organization",
+        "name": "University of Oviedo",
+        "url": "http://www.uniovi.es"
+      },
+      "sameAs": [
+        "https://twitter.com/herminio_gg",
+        "https://es.linkedin.com/in/herminio-garc%C3%ADa-gonz%C3%A1lez-83aa2678",
+        "https://github.com/herminiogg",
+        "https://plus.google.com/+HerminioGarc%C3%ADaGonz%C3%A1lez"
+      ]
     }
     </script>
 

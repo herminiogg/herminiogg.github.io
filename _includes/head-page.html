@@ -16,15 +16,18 @@
   <script src="{{ "/js/menu-responsive.js" | prepend: site.baseurl }}" type="text/javascript"></script>
   <script src="{{ "/js/navigation-bar.js" | prepend: site.baseurl }}" type="text/javascript"></script>
   <script src="{{ "/js/google-analytics.js" | prepend: site.baseurl }}" type="text/javascript"></script>
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Person",
-      "email": "mailto:herminiogg@outlook.com",
-      "image": "{{ "/images/profile-image.png" | prepend: site.baseurl }}",
-      "name": "Herminio García González",
-      "url": "herminiogg.github.io"
+  <script type="text/javascript">
+    window.onload = function() {
+      var text = document.querySelector(".post-content").innerText;
+      var minSpan = document.querySelector("#min-read");
+      minSpan.innerHTML = minRead(text);
     }
-    </script>
+
+    function minRead(text) {
+      var words = text.split(" ").length;
+      var min = Math.floor(words / 200);
+      return min === 0 ? 1 : min;
+    }
+  </script>
 
 </head>
