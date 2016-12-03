@@ -56,6 +56,8 @@ t:
     photography-text: When I have free time I take my camera to relax. Feel free to visit my Flickr.
     flickr: Flickr
     min-read: min read
+    research: Research
+    research-url: "/research"
   es:
     title-name: Herminio García
     title-url: "/es"
@@ -87,6 +89,8 @@ t:
     photography-text: Cuando tengo tiempo libre me gusta coger mi cámara para relajar. Siéntete libre de visitar mi Flickr.
     flickr: Flickr
     min-read: minutos de lectura
+    research: Investigación
+    research-url: "/es/research"
 
 defaults:
     scope:
