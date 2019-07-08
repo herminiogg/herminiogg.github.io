@@ -35,9 +35,9 @@ t:
     hobbies: Hobbies
     hobbies-url: "#photography"
     hobbies-section: "photography"
-    experience: Experience
-    experience-url: "#experience"
-    experience-section: experience
+    projects: Projects
+    projects-url: "#projects"
+    projects-section: projects
     who-am-i: Who am I?
     who-am-i-url: "#who-am-i"
     who-am-i-section: "who-am-i"
@@ -45,11 +45,7 @@ t:
     description: PhD student in Computer Science at University of Oviedo
     who-am-i-text: I am a PhD student at the University of Oviedo. I obtained my MSc in Web Engineering by the University of Oviedo in 2016 and I also have a Bachelor Degree in Software Engineering by the same university. My current research interests are Web Semantics, e-Learning and Big Data.
     contact-me: Contact me
-    experience: Experience
-    experience-text: I have been working with
-    experience-text-2: "in various projects including: "
-    experience-text-3: and
-    experience-text-4: Apart from that I have worked in groups in many projects for the University of Oviedo during my studies.
+    projects-text: During my PhD I am working in various projects like XMLSchema2ShEx and ShExML. Feel free to visit my Github to see in what I am working at this moment.
     linkedin: linkedin
     github: github
     photography: Photography
@@ -69,9 +65,9 @@ t:
     hobbies: Aficiones
     hobbies-url: "/es/#fotografia"
     hobbies-section: "fotografia"
-    experience: Experiencia
-    experience-url: "/es/#experiencia"
-    experience-section: experiencia
+    projects: Proyectos
+    projects-url: "/es/#proyectos"
+    projects-section: proyectos
     who-am-i: ¿Quién soy?
     who-am-i-url: "/es/#quien-soy"
     who-am-i-section: "quien-soy"
@@ -79,10 +75,7 @@ t:
     description: Estudiante del doctorado en Ingeniería Informática de la Universidad de Oviedo
     who-am-i-text: Soy un estudiante de doctorado de la Universidad de Oviedo. Obtuve mi Máster en Ingeniería Web por la Universidad de Oviedo en 2016. También soy Ingeniero Informático del Software por la misma universidad. Mi areas de investigación de interes son la Web Semántica, e-Learning y Big Data.
     contact-me: Contactar
-    experience-text: He trabajo con
-    experience-text-2: "en varios proyectos entre los cuales están:"
-    experience-text-3: y
-    experience-text-4: Además de esto también he trabajo en grupos en varios proyectos durante mis estudios en la Universidad de Oviedo.
+    projects-text: Durante mi tesis doctoral estoy trabajando en varios proyectos entre los cuales se encuentran XMLSchema2ShEx y ShExML. Visita mi cuenta de Github para saber en qué estoy trabajando ahora mismo.
     linkedin: linkedin
     github: github
     photography: Fotografía

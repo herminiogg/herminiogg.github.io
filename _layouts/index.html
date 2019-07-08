@@ -4,9 +4,9 @@ layout: default
 
 <div class="home">
   <div class="main-view">
-    <!--<div class="profile-image">
-      <img src="{{ "/images/profile-image.png" | prepend: site.baseurl }}" alt="Profile image">
-    </div>-->
+    <div class="profile-image">
+      <img src="{{ "/images/profile-image.jpg" | prepend: site.baseurl }}" alt="Profile image">
+    </div>
     <div>
       <h2>{{site.t[page.lang].name}}</h2>
       <h3>{{site.t[page.lang].description}}</h3>
@@ -14,9 +14,9 @@ layout: default
   </div>
   <div class="social-links">
     <div class=""><a href="https://www.researchgate.net/profile/Herminio_Garcia-Gonzalez"><i class="ai ai-researchgate ai-2x"></i></a></div>
-    <div class=""><a href="https://orcid.org/0000-0001-5590-4857"><i class="ai ai-orcid ai-2x"></i></div>
+    <div class=""><a href="https://dblp.uni-trier.de/pers/hd/g/Garc=iacute=a=Gonz=aacute=lez:Herminio"><i class="ai ai-dblp ai-2x"></i></div>
     <div class="first-down"><a href="{{site.t[page.lang].who-am-i-url}}"><i class="fa fa-angle-down"></i></a></div>
-    <div class=""><a href="https://es.linkedin.com/in/herminio-garc%C3%ADa-gonz%C3%A1lez-83aa2678"><i class="fa fa-linkedin fa-2x"></i></a></div>
+    <div class=""><a href="https://github.com/herminiogg"><i class="fa fa-github fa-2x"></i></a></div>
     <div class=""><a href="mailto:herminio@herminiogarcia.com"><i class="fa fa-envelope fa-2x"></i></a></div>
   </div>
 </div>
@@ -29,19 +29,19 @@ layout: default
       </p>
       <a class="button u-full-width" href="mailto:herminio@herminiogarcia.com"><i class="fa fa-envelope"></i> {{site.t[page.lang].contact-me}}</a>
     </div>
-    <div class="down"><a href="{{site.t[page.lang].experience-url}}"><i class="fa fa-angle-down"></i></a></div>
+    <div class="down"><a href="{{site.t[page.lang].projects-url}}"><i class="fa fa-angle-down"></i></a></div>
   </div>
 </div>
-  <div id="{{site.t[page.lang].experience-section}}" class="content-block">
+  <div id="{{site.t[page.lang].projects-section}}" class="content-block">
     <div class="wrapper container">
       <div class="content">
-        <h2>{{site.t[page.lang].experience}}</h2>
+        <h2>{{site.t[page.lang].projects}}</h2>
         <p>
-          {{site.t[page.lang].experience-text}} <a href="http://weso.es">WESO Research Group</a> {{site.t[page.lang].experience-text-2}} <a href="http://landportal.info">Landportal</a>, <a href="http://a4ai.org/affordability-report/">Affordability Index 2014</a> {{site.t[page.lang].experience-text-3}} LODLearning. {{site.t[page.lang].experience-text-4}}
+          {{site.t[page.lang].projects-text}}
         </p>
         <div class="row">
-          <a class="button one-half column" href="https://es.linkedin.com/in/herminio-garc%C3%ADa-gonz%C3%A1lez-83aa2678"><i class="fa fa-linkedin-square"></i> {{site.t[page.lang].linkedin}}</a>
-          <a class="button one-half column" href="https://github.com/herminiogg"><i class="fa fa-github"></i> {{site.t[page.lang].github}}</a>
+          <!--<a class="button one-half column" href="https://es.linkedin.com/in/herminio-garc%C3%ADa-gonz%C3%A1lez-83aa2678"><i class="fa fa-linkedin-square"></i> {{site.t[page.lang].linkedin}}</a>-->
+          <a class="button column" href="https://github.com/herminiogg"><i class="fa fa-github"></i> {{site.t[page.lang].github}}</a>
         </div>
       </div>
       <div class="down"><a href="{{site.t[page.lang].hobbies-url}}"><i class="fa fa-angle-down"></i></a></div>
