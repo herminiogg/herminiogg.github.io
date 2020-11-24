@@ -6,7 +6,7 @@ lang: en
 ---
 
 ### Journals
-* "ShExML: Improving the usability of heterogeneous data mapping languages for first-time users", Herminio García-González, Iovka Boneva, Sławek Staworko, José Emilio Labra-Gayo, Juan Manuel Cueva Lovelle, in PeerJ Computer Science (Accepted, to be published as Open Access) [Pre-print](../../research/papers/shexml-preprint.pdf)
+* "ShExML: Improving the usability of heterogeneous data mapping languages for first-time users", Herminio García-González, Iovka Boneva, Sławek Staworko, José Emilio Labra-Gayo, Juan Manuel Cueva Lovelle, in PeerJ Computer Science 6:e318, 2020, [doi:10.7717/peerj-cs.318](https://doi.org/10.7717/peerj-cs.318) [Open Access](https://peerj.com/articles/cs-318.pdf)
 * "XMLSchema2ShEx: Converting XML validation to RDF validation", Herminio Garcia-Gonzalez, Jose Emilio Labra-Gayo, in Semantic Web Journal, vol. 11, no. 2, pp. 235-253, 2020, [doi:10.3233/SW-180329](https://dx.doi.org/10.3233/SW-180329). [Pre-print](http://www.semantic-web-journal.net/system/files/swj1824.pdf)
 * "Applying big data and stream processing to the real estate domain", Herminio García-González, Daniel Fernández-Álvarez, José Emilio Labra-Gayo, Patricia Ordóñez de Pablos, in Behaviour & Information Technology, vol. 38, no. 9, pp. 950-958, 2019, [doi:10.1080/0144929X.2019.1620858](https://dx.doi.org/10.1080/0144929X.2019.1620858)
 * "Enhancing e-Learning content by using Semantic Web technologies", Herminio Garcia-Gonzalez, Jose Emilio Labra Gayo, MPuerto Paule-Ruiz, in IEEE Transactions on Learning Technologies, vol. 10, no. 4, pp. 544-550, 1 Oct.-Dec. 2017, [doi:10.1109/TLT.2016.2629475](https://dx.doi.org/10.1109/TLT.2016.2629475). [Authors' version](../../research/papers/LODLearning Authors' version.pdf)
