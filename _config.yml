@@ -54,6 +54,8 @@ t:
     min-read: min read
     research: Research
     research-url: "/research"
+    phd-url: "/thesis"
+    phd-name: PhD Thesis
   es:
     title-name: Herminio García
     title-url: "/es"
@@ -84,6 +86,8 @@ t:
     min-read: minutos de lectura
     research: Investigación
     research-url: "/es/research"
+    phd-url: "/es/thesis"
+    phd-name: Tesis doctoral
 
 defaults:
     scope:
