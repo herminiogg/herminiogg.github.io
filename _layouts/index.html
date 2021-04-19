@@ -27,7 +27,10 @@ layout: default
       <p>
         {{site.t[page.lang].who-am-i-text}}
       </p>
-      <a class="button u-full-width" href="mailto:herminio@herminiogarcia.com"><i class="fa fa-envelope"></i> {{site.t[page.lang].contact-me}}</a>
+      <div class="row">
+        <a class="button one-half column" href="mailto:herminio@herminiogarcia.com"><i class="fa fa-envelope"></i> {{site.t[page.lang].contact-me}}</a>
+        <a class="button one-half column" href="{{site.t[page.lang].cv-url}}"><i class="fa fa-file-text"></i> {{site.t[page.lang].cv}} </a>
+      </div>
     </div>
     <div class="down"><a href="{{site.t[page.lang].projects-url}}"><i class="fa fa-angle-down"></i></a></div>
   </div>

@@ -56,6 +56,8 @@ t:
     research-url: "/research"
     phd-url: "/thesis"
     phd-name: PhD Thesis
+    cv: See my CV
+    cv-url: /cv/CV-Herminio-Garcia-Gonzalez.pdf
   es:
     title-name: Herminio García
     title-url: "/es"
@@ -88,6 +90,8 @@ t:
     research-url: "/es/research"
     phd-url: "/es/thesis"
     phd-name: Tesis doctoral
+    cv: Ver mi CV
+    cv-url: /../cv/CV-Herminio-Garcia-Gonzalez.pdf
 
 defaults:
     scope:
