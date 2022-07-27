@@ -155,6 +155,81 @@ footer p {
   color: white;
 }
 
+.references {
+  margin-bottom: 4rem;
+}
+
+.reference {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.reference .mainInformation {
+  display: flex;
+  flex-direction: column;
+}
+
+.reference .mainInformation span {
+  overflow: hidden; 
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.reference .mainInformation .title {
+  color: #CA6E45;
+  font-weight: bold;
+}
+
+.reference .mainInformation .authors {
+  font-size: 1.3rem;
+  font-weight: lighter;
+}
+
+.reference .mainInformation .venue {
+  font-size: 1.1rem;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.reference .otherInformation {
+  display: flex;
+  justify-content: space-between;
+}
+
+.reference .otherInformation .typeOfVenue .typeOfVenueTitle {
+  padding: 4px;
+  color: white;
+  font-size: 1.1rem;
+  box-shadow: 0 0 5px rgba(0,0,0,.05), 2px 2px 5px rgba(0,0,0,.1);
+  border-radius: 4px;
+}
+
+.reference .otherInformation .typeOfVenue .conference {
+  background-color: #32d97d;
+}
+
+.reference .otherInformation .typeOfVenue .journal {
+  background-color: #4681e0;
+}
+
+.reference .otherInformation .typeOfVenue .bookChapter {
+  background-color: #de3b26;
+}
+
+.reference .otherInformation .links a {
+  color: inherit;
+  font-size: 1rem;
+}
+
+.reference .otherInformation .links a {
+  margin-left: 0.5rem;
+}
+
+.reference .otherInformation .links a:hover {
+  color: #CA6E45;
+}
+
 @media (min-width: 768px) {
   nav {
     padding-right: 250px;

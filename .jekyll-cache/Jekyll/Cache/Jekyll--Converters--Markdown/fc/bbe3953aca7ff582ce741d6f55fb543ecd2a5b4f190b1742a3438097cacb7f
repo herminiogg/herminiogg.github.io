@@ -1,4 +1,4 @@
-I"ø²<p>These days I was preparing the <a href="https://arquisoft.github.io/">Software Architecture</a> course that we will be starting in a few weeks. So, I decided to create a small to-do list app with React and Solid to get in touch with these technologies that we will be using in the course. While I was making the prototype I realised that this prototype alongside the creation process could be a very interesting starting guide for my students and also for everyone that would like to start seeing a small example working. The app consist of a small web interface with and input box, a list of tasks and two button to manage Solid persistence. The final look can be seen in the image below.</p>
+I"$³<p>These days I was preparing the <a href="https://arquisoft.github.io/">Software Architecture</a> course that we will be starting in a few weeks. So, I decided to create a small to-do list app with React and Solid to get in touch with these technologies that we will be using in the course. While I was making the prototype I realised that this prototype alongside the creation process could be a very interesting starting guide for my students and also for everyone that would like to start seeing a small example working. The app consist of a small web interface with and input box, a list of tasks and two button to manage Solid persistence. The final look can be seen in the image below.</p>
 
 <p><img src="https://herminiogarcia.com/images/todo-list-overview.png" alt="To-do list app interface overview" /></p>
 
@@ -231,11 +231,11 @@ npm start
 <span class="p">}</span>
 </code></pre></div></div>
 
-<div class="language-sparql highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">PREFIX</span><span class="w"> </span><span class="nn">:</span><span class="w"> </span><span class="nn">&lt;#&gt;</span><span class="w">
-</span><span class="k">PREFIX</span><span class="w"> </span><span class="nn">schema:</span><span class="w"> </span><span class="nn">&lt;http://schema.org/&gt;</span><span class="w">
+<div class="language-sparql highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">PREFIX</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="nn">&lt;#&gt;</span><span class="w">
+</span><span class="k">PREFIX</span><span class="w"> </span><span class="nn">schema</span><span class="o">:</span><span class="w"> </span><span class="nn">&lt;http://schema.org/&gt;</span><span class="w">
 
 </span><span class="k">SELECT</span><span class="w"> </span><span class="nv">?o</span><span class="w"> </span><span class="k">WHERE</span><span class="w"> </span><span class="p">{</span><span class="w">
-  </span><span class="nn">:</span><span class="ss">todo</span><span class="w"> </span><span class="nn">schema:</span><span class="ss">itemListElement</span><span class="w"> </span><span class="nv">?o</span><span class="w"> </span><span class="p">.</span><span class="w">
+  </span><span class="o">:</span><span class="ss">todo</span><span class="w"> </span><span class="nn">schema</span><span class="o">:</span><span class="ss">itemListElement</span><span class="w"> </span><span class="nv">?o</span><span class="w"> </span><span class="p">.</span><span class="w">
 </span><span class="p">}</span><span class="w">
 </span></code></pre></div></div>
 

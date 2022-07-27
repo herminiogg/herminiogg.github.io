@@ -5,22 +5,258 @@ page-title: "Research"
 lang: en
 ---
 
-### Journals
-* "Intestinal microbiota alterations by dietary exposure to chemicals from food cooking and processing. Application of Data Science for risk prediction", Sergio Ruiz-Saavedra, Herminio García-González, Silvia Arboleya, Nuria Salazar, José Emilio Labra-Gayo, Irene Díaz, Sonia González, Clara G. de los Reyes Gavilán, in Computational and Structural Biotechnology Journal, in press, 2021, [doi:10.1016/j.csbj.2021.01.037](https://doi.org/10.1016/j.csbj.2021.01.037) [Open Access](https://www.sciencedirect.com/science/article/pii/S2001037021000416)
-* "ShExML: Improving the usability of heterogeneous data mapping languages for first-time users", Herminio García-González, Iovka Boneva, Sławek Staworko, José Emilio Labra-Gayo, Juan Manuel Cueva Lovelle, in PeerJ Computer Science 6:e318, 2020, [doi:10.7717/peerj-cs.318](https://doi.org/10.7717/peerj-cs.318) [Open Access](https://peerj.com/articles/cs-318.pdf)
-* "XMLSchema2ShEx: Converting XML validation to RDF validation", Herminio Garcia-Gonzalez, Jose Emilio Labra-Gayo, in Semantic Web Journal, vol. 11, no. 2, pp. 235-253, 2020, [doi:10.3233/SW-180329](https://dx.doi.org/10.3233/SW-180329). [Pre-print](http://www.semantic-web-journal.net/system/files/swj1824.pdf)
-* "Applying big data and stream processing to the real estate domain", Herminio García-González, Daniel Fernández-Álvarez, José Emilio Labra-Gayo, Patricia Ordóñez de Pablos, in Behaviour & Information Technology, vol. 38, no. 9, pp. 950-958, 2019, [doi:10.1080/0144929X.2019.1620858](https://dx.doi.org/10.1080/0144929X.2019.1620858)
-* "Enhancing e-Learning content by using Semantic Web technologies", Herminio Garcia-Gonzalez, Jose Emilio Labra Gayo, MPuerto Paule-Ruiz, in IEEE Transactions on Learning Technologies, vol. 10, no. 4, pp. 544-550, 1 Oct.-Dec. 2017, [doi:10.1109/TLT.2016.2629475](https://dx.doi.org/10.1109/TLT.2016.2629475). [Authors' version](../../research/papers/LODLearning Authors' version.pdf)
+#### 2021
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Everything for the Users, Nothing by the Users: Lessons Learnt from a Heterogeneous Data Mapping Languages User Study</span>
+            <span class="authors">Herminio García-González</span>
+            <span class="venue">2nd International Workshop on Knowledge Graph Construction co-located with 18th Extended Semantic Web Conference (ESWC 2021)</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Conference</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Garcia-Gonzalez21a.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="../../research/slides/EverythingForTheUsersNothingByTheUsersSlides.pdf" title="Download slides"><i class="fa fa-file-powerpoint-o fa-2x"></i></a>
+                <a href="http://ceur-ws.org/Vol-2873/paper1.pdf" title="Download from CEUR-WS"><i class="ai ai-ceur ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">A ShExML Perspective on Mapping Challenges: Already Solved Ones, Language Modifications and Future Required Actions</span>
+            <span class="authors">Herminio García-González</span>
+            <span class="venue">2nd International Workshop on Knowledge Graph Construction co-located with 18th Extended Semantic Web Conference (ESWC 2021)</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Conference</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Garcia-Gonzalez21b.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="../../research/slides/AShExMLPerspectiveOnMappingChallengesSlides.pdf" title="Download slides"><i class="fa fa-file-powerpoint-o fa-2x"></i></a>
+                <a href="http://ceur-ws.org/Vol-2873/paper2.pdf" title="Download from CEUR-WS"><i class="ai ai-ceur ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Intestinal microbiota alterations by dietary exposure to chemicals from food cooking and processing. Application of Data Science for risk prediction</span>
+            <span class="authors">Sergio Ruiz-Saavedra, Herminio García-González, Silvia Arboleya, Nuria Salazar, José Emilio Labra-Gayo, Irene Díaz, Sonia González, Clara G. de los Reyes Gavilán</span>
+            <span class="venue">Computational and Structural Biotechnology Journal</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle journal">Journal</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Ruiz-Saavedra21.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://www.sciencedirect.com/science/article/pii/S2001037021000416" title="See Open Access publication"><i class="ai ai-open-access ai-2x"></i></a>
+                <a href="https://doi.org/10.1016/j.csbj.2021.01.037" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
 
-### Conferences
-* "Everything for the Users, Nothing by the Users: Lessons Learnt from a Heterogeneous Data Mapping Languages User Study", Herminio García-González, in 2nd International Workshop on Knowledge Graph Construction co-located with 18th Extended Semantic Web Conference (ESWC 2021), Online, June 6, 2021. [CEUR-WS](http://ceur-ws.org/Vol-2873/paper1.pdf) [Slides](../../research/slides/EverythingForTheUsersNothingByTheUsersSlides.pdf)
-* "A ShExML Perspective on Mapping Challenges: Already Solved Ones, Language Modifications and Future Required Actions", Herminio García-González, in 2nd International Workshop on Knowledge Graph Construction co-located with 18th Extended Semantic Web Conference (ESWC 2021), Online, June 6, 2021. [CEUR-WS](http://ceur-ws.org/Vol-2873/paper2.pdf) [Slides](../../research/slides/AShExMLPerspectiveOnMappingChallengesSlides.pdf)
-* "Converting Asturian Notaries Public deeds to Linked Data using TEI and ShExML", Herminio García-González, Elena Albarrán-Fernández, José Emilio Labra-Gayo, Miguel Calleja-Puerta, in 3rd Workshop on Humanities in the Semantic Web (WHiSe) co-located with 17th European Semantic Web Conference (ESWC 2020), Heraklion, Greece (Online), June 2, 2020. [Pre-print](../../research/papers/AsturianNotaries2LOD.pdf) [Slides](../../research/slides/AsturianNotaries2LODSlides.pdf) [CEUR-WS](http://ceur-ws.org/Vol-2695/paper5.pdf)
-* "Testing the usability of SNOMED CT terms suggestion in medical report", Maria Sanchez-Doria, Jose Emilio Labra Gayo, Daniel Fernandez-Alvarez, Herminio Garcia-Gonzalez, in IEEE 32nd International Symposium on Computer-Based Medical Systems (CBMS 2019), Cordoba, Spain, 5-7 June 2019. [doi:10.1109/CBMS.2019.00137](https://doi.org/10.1109/CBMS.2019.00137)
-* "ShExML: An Heterogeneous Data Mapping Language based on ShEx", Herminio García-González, Daniel Fernández-Álvarez, José Emilio Labra-Gayo, in Proceedings of the EKAW 2018 Posters and Demonstrations Session co-located with 21st International Conference on Knowledge Engineering and Knowledge Management (EKAW 2018), Nancy, France, November 12-16, 2018. [CEUR-WS](http://ceur-ws.org/Vol-2262/ekaw-poster-08.pdf)
-* "Inference of Latent Shape Expressions Associated to DBpedia Ontology", Daniel Fernández-Álvarez, Herminio García-González, Johannes Frey, Sebastian Hellmann, José Emilio Labra Gayo, Proceedings of the ISWC 2018 Posters & Demonstrations, Industry and Blue Sky Ideas Tracks co-located with 17th International Semantic Web Conference (ISWC 2018), Monterey, USA, October 8-12 2018. [CEUR-WS](http://ceur-ws.org/Vol-2180/paper-15.pdf).
-* "RDFShape: An RDF Playground Based on Shapes", José Emilio Labra-Gayo, Daniel Fernández-Álvarez, Herminio García-González, Proceedings of the ISWC 2018 Posters & Demonstrations, Industry and Blue Sky Ideas Tracks co-located with 17th International Semantic Web Conference (ISWC 2018), Monterey, USA, October 8-12 2018. [CEUR-WS](http://ceur-ws.org/Vol-2180/paper-35.pdf)
-* "Inference and Serialization of Latent Graph Schemata Using ShEx", Daniel Fernández-Álvarez, Herminio García-González, Jose Emilio Labra-Gayo, in The Tenth International Conference on Advances in Semantic Processing, SEMAPRO16, Venice, Italy, October 9-13, 2016. [Pre-print](http://labra.weso.es/pdf/2016_InferenceSerializationShEx.pdf)
+#### 2020
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">ShExML: Improving the usability of heterogeneous data mapping languages for first-time users</span>
+            <span class="authors">Herminio García-González, Iovka Boneva, Sławek Staworko, José Emilio Labra-Gayo, Juan Manuel Cueva Lovelle</span>
+            <span class="venue">PeerJ Computer Science</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle journal">Journal</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Garcia-Gonzalez20a.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://peerj.com/articles/cs-318.pdf" title="See Open Access publication"><i class="ai ai-open-access ai-2x"></i></a>
+                <a href="https://doi.org/10.7717/peerj-cs.318" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Converting Asturian Notaries Public deeds to Linked Data using TEI and ShExML</span>
+            <span class="authors">Herminio García-González, Elena Albarrán-Fernández, José Emilio Labra-Gayo, Miguel Calleja-Puerta</span>
+            <span class="venue">3rd Workshop on Humanities in the Semantic Web (WHiSe) co-located with 17th European Semantic Web Conference (ESWC 2020)</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Conference</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Garcia-Gonzalez20b.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="../../research/slides/AsturianNotaries2LODSlides.pdf" title="Download slides"><i class="fa fa-file-powerpoint-o fa-2x"></i></a>
+                <a href="http://ceur-ws.org/Vol-2695/paper5.pdf" title="Download from CEUR-WS"><i class="ai ai-ceur ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">XMLSchema2ShEx: Converting XML validation to RDF validation</span>
+            <span class="authors">Herminio Garcia-Gonzalez, Jose Emilio Labra-Gayo</span>
+            <span class="venue">Semantic Web Journal</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle journal">Journal</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Garcia-Gonzalez20c.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="http://www.semantic-web-journal.net/system/files/swj1824.pdf" title="Download preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+                <a href="https://dx.doi.org/10.3233/SW-180329" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
 
-### Book chapters
-* "Challenges in RDF validation", Jose Emilio Labra-Gayo, Herminio García-González, Daniel Fernández-Álvarez, Eric Prud'hommeaux, Current Trends in Semantic Web Technologies: Theory and Practice, Studies in Computational Intelligence, vol 815. Springer, Cham [doi:10.1007/978-3-030-06149-4_6](https://doi.org/10.1007/978-3-030-06149-4_6).
+#### 2019
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Applying big data and stream processing to the real estate domain</span>
+            <span class="authors">Herminio García-González, Daniel Fernández-Álvarez, José Emilio Labra-Gayo, Patricia Ordóñez de Pablos</span>
+            <span class="venue">Behaviour & Information Technology</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle journal">Journal</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Garcia-Gonzalez19.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://dx.doi.org/10.1080/0144929X.2019.1620858" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Testing the usability of SNOMED CT terms suggestion in medical report</span>
+            <span class="authors">Maria Sanchez-Doria, Jose Emilio Labra Gayo, Daniel Fernandez-Alvarez, Herminio Garcia-Gonzalez</span>
+            <span class="venue">IEEE 32nd International Symposium on Computer-Based Medical Systems (CBMS 2019)</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Conference</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Sanchez-Doria19.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://doi.org/10.1109/CBMS.2019.00137" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Challenges in RDF validation</span>
+            <span class="authors">Jose Emilio Labra-Gayo, Herminio García-González, Daniel Fernández-Álvarez, Eric Prud'hommeaux</span>
+            <span class="venue">Current Trends in Semantic Web Technologies: Theory and Practice, Studies in Computational Intelligence</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle bookChapter">Book Chapter</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Labra-Gayo19.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://labra.weso.es/pdf/2019_ChallengesValidatingRDFData.pdf" title="Download preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+                <a href="https://doi.org/10.1007/978-3-030-06149-4_6" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+#### 2018
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">ShExML: An Heterogeneous Data Mapping Language based on ShEx</span>
+            <span class="authors">Herminio García-González, Daniel Fernández-Álvarez, José Emilio Labra-Gayo</span>
+            <span class="venue">Proceedings of the EKAW 2018 Posters and Demonstrations Session co-located with 21st International Conference on Knowledge Engineering and Knowledge Management (EKAW 2018)</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Conference</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Garcia-Gonzalez18.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="http://ceur-ws.org/Vol-2262/ekaw-poster-08.pdf" title="Download from CEUR-WS"><i class="ai ai-ceur ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Inference of Latent Shape Expressions Associated to DBpedia Ontology</span>
+            <span class="authors">Daniel Fernández-Álvarez, Herminio García-González, Johannes Frey, Sebastian Hellmann, José Emilio Labra Gayo</span>
+            <span class="venue">Proceedings of the ISWC 2018 Posters & Demonstrations, Industry and Blue Sky Ideas Tracks co-located with 17th International Semantic Web Conference (ISWC 2018)</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Conference</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Fernandez-Alvarez18.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="http://ceur-ws.org/Vol-2180/paper-15.pdf" title="Download from CEUR-WS"><i class="ai ai-ceur ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">RDFShape: An RDF Playground Based on Shapes</span>
+            <span class="authors">José Emilio Labra-Gayo, Daniel Fernández-Álvarez, Herminio García-González</span>
+            <span class="venue">Proceedings of the ISWC 2018 Posters & Demonstrations, Industry and Blue Sky Ideas Tracks co-located with 17th International Semantic Web Conference (ISWC 2018)</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Conference</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Labra-Gayo18.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="http://ceur-ws.org/Vol-2180/paper-35.pdf" title="Download from CEUR-WS"><i class="ai ai-ceur ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+#### 2017
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Enhancing e-Learning content by using Semantic Web technologies</span>
+            <span class="authors">Herminio Garcia-Gonzalez, Jose Emilio Labra Gayo, MPuerto Paule-Ruiz</span>
+            <span class="venue">IEEE Transactions on Learning Technologies</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle journal">Journal</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Garcia-Gonzalez17.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="../../research/papers/LODLearning Authors' version.pdf" title="Download authors' version"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+                <a href="https://dx.doi.org/10.1109/TLT.2016.2629475" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+#### 2016
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Inference and Serialization of Latent Graph Schemata Using ShEx</span>
+            <span class="authors">Daniel Fernández-Álvarez, Herminio García-González, Jose Emilio Labra-Gayo</span>
+            <span class="venue">The Tenth International Conference on Advances in Semantic Processing, SEMAPRO16</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Conference</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Fernandez-Alvarez16.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="http://labra.weso.es/pdf/2016_InferenceSerializationShEx.pdf" title="Download preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
