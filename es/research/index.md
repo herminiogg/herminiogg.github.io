@@ -5,6 +5,25 @@ page-title: "Investigación"
 lang: es
 ---
 
+#### Upcoming
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Why to Tie to a Single Data Mapping Language? Enabling a Transformation from ShExML to RML</span>
+            <span class="authors">Herminio García-González, Anastasia Dimou</span>
+            <span class="venue">SEMANTICS 2022 EU: 18th International Conference on Semantic Systems, Posters & Demos, September 13-15, 2022, Vienna, Austria</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Congreso</span>
+            </div>
+            <div class="links">
+                <a href="../../research/papers/SEMANTICS22-Poster.pdf" title="Descargar preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
 #### 2021
 <div class="references">
     <div class="reference">
