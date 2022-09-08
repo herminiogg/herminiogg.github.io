@@ -18,6 +18,7 @@ lang: es
                 <span class="typeOfVenueTitle conference">Congreso</span>
             </div>
             <div class="links">
+                <a href="../../research/posters/SEMANTICS22-Poster.pdf" title="Descargar poster"><i class="fa fa-file-image-o fa-2x"></i></a>
                 <a href="../../research/papers/SEMANTICS22-Poster.pdf" title="Descargar preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
             </div>
         </div>
