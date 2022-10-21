@@ -5,7 +5,7 @@ page-title: "Research"
 lang: en
 ---
 
-#### Upcoming
+#### 2022
 <div class="references">
     <div class="reference">
         <div class="mainInformation">
@@ -18,8 +18,9 @@ lang: en
                 <span class="typeOfVenueTitle conference">Conference</span>
             </div>
             <div class="links">
+                <a href="../../research/bibtex/Garcia-Gonzalez22.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
                 <a href="../../research/posters/SEMANTICS22-Poster.pdf" title="Download poster"><i class="fa fa-file-image-o fa-2x"></i></a>
-                <a href="../../research/papers/SEMANTICS22-Poster.pdf" title="Download preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+                <a href="http://ceur-ws.org/Vol-3235/paper11.pdf" title="Download from CEUR-WS"><i class="ai ai-ceur ai-2x"></i></a>
             </div>
         </div>
     </div>
