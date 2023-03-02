@@ -32,6 +32,8 @@ t:
     description: Herminio García personal webpage. PhD in Computer Science.
     blog-name: Blog
     blog-url: "/blog"
+    talks-name: Talks & Dissemination
+    talks-url: "/talks"
     hobbies: Hobbies
     hobbies-url: "#photography"
     hobbies-section: "photography"
@@ -64,6 +66,8 @@ t:
     description: Página web personal de Herminio García, Doctor en Informática por la Universidad de Oviedo.
     blog-name: Blog
     blog-url: "/es/blog"
+    talks-name: Charlas y Divulgación
+    talks-url: "/es/talks"
     title: Herminio García
     blog: Blog
     hobbies: Aficiones

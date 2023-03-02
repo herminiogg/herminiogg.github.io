@@ -5,7 +5,7 @@ page-title: "PhD Thesis"
 lang: en
 ---
 
-On March 25th 2021 I defended my PhD thesis at the University of Oviedo receiving the highest mark and a Cum Laude mention. I was also awarded with the University of Oviedo's extraordinary doctorate award (December, 2022). In the icons below you can download the dissertation document, the slides of the PhD viva and a bibtex file to cite it.
+On March 25th 2021 I defended my PhD thesis at the University of Oviedo receiving the highest mark and a Cum Laude mention. I was also awarded with the University of Oviedo's extraordinary doctorate award (Janurary, 2023). In the icons below you can download the dissertation document, the slides of the PhD viva and a bibtex file to cite it.
 
 <div class="references">
     <div class="reference">
