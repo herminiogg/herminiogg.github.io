@@ -5,7 +5,7 @@ page-title: "Charlas y Divulgación"
 lang: es
 ---
 
-#### Próximamente
+#### 2023
 <div class="references">
     <div class="reference">
         <div class="mainInformation">
