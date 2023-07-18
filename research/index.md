@@ -5,6 +5,25 @@ page-title: "Research"
 lang: en
 ---
 
+#### Upcoming
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">The Holocaust Archival Material Knowledge Graph</span>
+            <span class="authors">Herminio García-González, Mike Bryant</span>
+            <span class="venue">ISWC 2023: The 22nd International Semantic Web Conference, In-Use Track, November 6-10, 2023, Athens, Greece</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Conference</span>
+            </div>
+            <div class="links">
+                <a href="../../research/papers/TheHolocaustArchivalMaterialKnowledgeGraph-Preprint.pdf" title="Download preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
 #### 2022
 <div class="references">
     <div class="reference">
