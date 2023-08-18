@@ -9,6 +9,20 @@ lang: en
 <div class="references">
     <div class="reference">
         <div class="mainInformation">
+            <span class="title">"If this Portal could talk..."| EHRI's Veerle and Herminio Talk About Data Identification and Integration</span>
+            <span class="venue">EHRI project website, 3rd July 2023</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle bookChapter">Interview</span>
+            </div>
+            <div class="links">
+                <a href="https://www.ehri-project.eu/veerle-and-herminio-talk-about-EHRI-Portal" title="Read interview"><i class="fa fa-external-link fa-2x"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="reference">
+        <div class="mainInformation">
             <span class="title">Intro and practical session on Linked Open Data</span>
             <span class="venue">EHRI API & Innovation Workshop, London, 15th March 2023</span>
         </div>
