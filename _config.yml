@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Herminio García | Personal webpage
+title: Herminio García González | Personal webpage
 email: herminiogg@outlook.com
 description: Herminio García personal webpage. PhD in Computer Science.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://herminiogarcia.com" # the base hostname & protocol for your site
+url: "https://herminiogarcia.com" # the base hostname & protocol for your site
 twitter_username: herminio_gg
 github_username:  herminiogg
 
@@ -27,9 +27,9 @@ permalink: /blog/:year/:month/:day/:title/
 # translation
 t:
   en:
-    title-name: Herminio García
+    title-name: Herminio García González
     title-url: "/"
-    description: Herminio García personal webpage. PhD in Computer Science.
+    description: Herminio García González's personal webpage. PhD in Computer Science.
     blog-name: Blog
     blog-url: "/blog"
     talks-name: Talks & Dissemination
@@ -61,9 +61,9 @@ t:
     cv: See my CV
     cv-url: /cv/CV-Herminio-Garcia-Gonzalez.pdf
   es:
-    title-name: Herminio García
+    title-name: Herminio García González
     title-url: "/es"
-    description: Página web personal de Herminio García, Doctor en Informática por la Universidad de Oviedo.
+    description: Página web personal de Herminio García González, Doctor en Informática por la Universidad de Oviedo.
     blog-name: Blog
     blog-url: "/es/blog"
     talks-name: Charlas y Divulgación

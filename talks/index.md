@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Talks & Dissemination | Herminio García"
+title:  "Talks & Dissemination | Herminio García González"
 page-title: "Talks & Dissemination"
 lang: en
 ---

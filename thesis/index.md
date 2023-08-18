@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "PhD Thesis | Herminio García"
+title:  "PhD Thesis | Herminio García González"
 page-title: "PhD Thesis"
 lang: en
 ---

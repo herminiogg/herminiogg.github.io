@@ -2,28 +2,28 @@
   <div class="wrapper">
    <div class="">
     <div class="logo">
-      <h1><a href="{{ site.t[page.lang].title-url| prepend: site.url }}">Herminio García</a></h1>
+      <h1><a href="{{ site.t[page.lang].title-url| prepend: site.url }}">Herminio García González</a></h1>
     </div>
-    <a id="menu-icon" class="page-link u-pull-right"><i class="fa fa-bars fa-2x"></i></a>
     <nav class="menu">
       {% for my_page in site.pages %}
         {% if my_page.title %}
         <!--<a class="page-link u-pull-right" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>-->
         {% endif %}
       {% endfor %}
-      <a class="page-link " href="{{ site.t[page.lang].blog-url | prepend: site.url }}">{{site.t[page.lang].blog-name}}</a>
-      <a class="page-link" href="{{ site.t[page.lang].hobbies-url | prepend: site.url }}">{{site.t[page.lang].hobbies}}</a>
-      <a class="page-link" href="{{ site.t[page.lang].projects-url | prepend: site.url }}">{{site.t[page.lang].projects}}</a>
-      <a class="page-link" href="{{ site.t[page.lang].talks-url | prepend: site.url }}">{{site.t[page.lang].talks-name}}</a>
-      <a class="page-link " href="{{ site.t[page.lang].phd-url | prepend: site.url }}">{{site.t[page.lang].phd-name}}</a>
-      <a class="page-link " href="{{ site.t[page.lang].research-url | prepend: site.url }}">{{site.t[page.lang].research}}</a>
       <a class="page-link " href="{{ site.t[page.lang].who-am-i-url | prepend: site.url }}">{{site.t[page.lang].who-am-i}}</a>
+      <a class="page-link " href="{{ site.t[page.lang].research-url | prepend: site.url }}">{{site.t[page.lang].research}}</a>
+      <a class="page-link " href="{{ site.t[page.lang].phd-url | prepend: site.url }}">{{site.t[page.lang].phd-name}}</a>
+      <a class="page-link" href="{{ site.t[page.lang].talks-url | prepend: site.url }}">{{site.t[page.lang].talks-name}}</a>
+      <a class="page-link" href="{{ site.t[page.lang].projects-url | prepend: site.url }}">{{site.t[page.lang].projects}}</a>
+      <a class="page-link" href="{{ site.t[page.lang].hobbies-url | prepend: site.url }}">{{site.t[page.lang].hobbies}}</a>
+      <a class="page-link " href="{{ site.t[page.lang].blog-url | prepend: site.url }}">{{site.t[page.lang].blog-name}}</a>
       <div class="languages">
         <i class="fa fa-globe"></i>
         <a class="page-link " href="{{ site.t['en'].title-url | prepend: site.url }}">en</a>
         <a class="page-link " href="{{ site.t['es'].title-url | prepend: site.url }}">es</a>
       </div>
     </nav>
+    <a id="menu-icon" class="page-link u-pull-right"><i class="fa fa-bars fa-2x"></i></a>
     </div>
   </div>
 </header>

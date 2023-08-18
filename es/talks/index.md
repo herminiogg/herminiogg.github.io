@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Charlas y Divulgación | Herminio García"
+title:  "Charlas y Divulgación | Herminio García González"
 page-title: "Charlas y Divulgación"
 lang: es
 ---

@@ -44,9 +44,12 @@ h2, h3 {
 
 nav {
   padding-right: 20px;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 20px;
 }
 
-nav a {
+nav a, nav div i, nav div a {
   margin-top: 40px;
   padding-left: 10px;
   text-decoration: none;
@@ -54,19 +57,23 @@ nav a {
   font-family: $link-font-family;
   font-size: 16px;
   font-weight: 800;
-  float: right;
+}
+
+nav .languages {
+  padding-left: 30px;
+}
+
+nav .languages i {
+  padding-top: 5px;
 }
 
 nav a:hover {
   color: #fcdc9c;
 }
 
-header .logo {
-  float: left;
-}
-
-header .menu {
-  float: right;
+header div div {
+  display: flex;
+  justify-content: space-between;
 }
 
 .site-header .wrapper .row nav a:visited {
@@ -230,64 +237,28 @@ footer p {
   color: #CA6E45;
 }
 
-@media (min-width: 768px) {
-  nav {
-    padding-right: 250px;
-  }
-
-  .languages {
-    position: absolute;
-    left: 88%;
-    margin-top: 40px;
-  }
-
-  .languages a, .languages i {
-    text-decoration: none;
-    color: white;
-    font-size: 16px;
-    padding-left: 10px;
-    font-weight: 800;
-    margin-top: 0px;
-  }
-
-  .languages a {
-    font-family: $link-font-family;
-  }
-
-  .languages a:hover {
-    color: #fcdc9c;
-  }
-}
-
 /* For responsive menu */
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
   nav a {
-    float: none;
     display: block;
     margin-top: 30px;
     padding-left: 0px;
-    text-align: center;
     margin-bottom: 10px;
   }
 
   nav {
-    width: 60%;
-    margin-left: 20%;
-    margin-right: 20%;
-    display: none;
-  }
-
-  .languages {
-    margin-top: 30px;
-    margin-bottom: 10px;
     text-align: center;
-    padding-right: 20px;
+    width: 100%;
+    margin-top: 100px;
+    display: none;
+    flex-direction: column;
   }
 
-  .languages a, .languages i {
-    display: inline;
-    color: white;
-    padding-left: 40px;
+  nav .languages {
+    padding-left: 0px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-evenly;
   }
 
   #menu-icon {

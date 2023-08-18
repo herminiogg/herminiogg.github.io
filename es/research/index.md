@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Investigación | Herminio García"
+title:  "Investigación | Herminio García González"
 page-title: "Investigación"
 lang: es
 ---
