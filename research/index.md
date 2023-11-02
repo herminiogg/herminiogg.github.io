@@ -18,7 +18,10 @@ lang: en
                 <span class="typeOfVenueTitle conference">Conference</span>
             </div>
             <div class="links">
-                <a href="../../research/papers/TheHolocaustArchivalMaterialKnowledgeGraph-Preprint.pdf" title="Download preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+                <a href="../../research/bibtex/Garcia-Gonzalez23.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://docs.google.com/presentation/d/1FaTdCJrbpOgOS7oWwtd-07Iyg35p1PTgMmnkOy473tY/edit?usp=sharing" title="Download slides"><i class="fa fa-file-powerpoint-o fa-2x"></i></a>
+                <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-47243-5_20.pdf?pdf=inline%20link" title="See Open Access publication"><i class="ai ai-open-access ai-2x"></i></a>
+                <a href="https://doi.org/10.1007/978-3-031-47243-5_20" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
             </div>
         </div>
     </div>
