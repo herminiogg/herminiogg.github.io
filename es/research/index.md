@@ -5,7 +5,11 @@ page-title: "Investigación"
 lang: es
 ---
 
+{::comment}
 #### Aceptado
+{:/comment}
+
+#### 2023
 <div class="references">
     <div class="reference">
         <div class="mainInformation">
