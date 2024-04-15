@@ -5,9 +5,24 @@ page-title: "Research"
 lang: en
 ---
 
-{::comment}
 #### Upcoming
-{:/comment}
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Multilingual Automated Subject Indexing: a comparative study of LLMs vs alternative approaches in the context of the EHRI project</span>
+            <span class="authors">Maria Dermentzi, Mike Bryant, Fabio Rovigo and Herminio García-González</span>
+            <span class="venue">DH Benelux 2024, June 5-7, 2024, Leuven, Belgium</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Conference</span>
+            </div>
+            <div class="links">
+                
+            </div>
+        </div>
+    </div>
+</div>
 
 #### 2023
 <div class="references">

@@ -47,7 +47,7 @@ t:
     description: Data integration specialist at Kazerne Dossin
     who-am-i-text: "I am a data integration specialist at Kazerne Dossin, Belgium. I hold a PhD in Computer Science, a MSc in Web Engineering and a Bachelor's Degree in Software Engineering all by the University of Oviedo. My current research interests are: Semantic Web, data integration, data validation, Knowledge Graphs and Digital Humanities."
     contact-me: Contact me
-    projects-text: I am currently involved in a full-time basis in the <a href="https://www.ehri-project.eu/about-ehri">EHRI-3 project</a>. I also develop and maintain different open source projects like <a href="http://shexml.herminiogarcia.com/">ShExML</a>, <a href="https://github.com/herminiogg/dmaog">DMAOG</a> or <a href="https://github.com/herminiogg/XMLSchema2ShEx">XMLSchema2ShEx</a>. Feel free to visit my Github to see in what I am working at this moment.
+    projects-text: I am currently involved in the <a href="https://www.ehri-project.eu/about-ehri">EHRI project</a> working in two parallel projects, the EHRI-3 project and the EHRI-IP project. I also develop and maintain different open source projects like <a href="http://shexml.herminiogarcia.com/">ShExML</a>, <a href="https://github.com/herminiogg/dmaog">DMAOG</a> or <a href="https://github.com/herminiogg/XMLSchema2ShEx">XMLSchema2ShEx</a>. Feel free to visit my Github to see in what I am working at this moment.
     linkedin: linkedin
     github: github
     photography: Photography
@@ -83,7 +83,7 @@ t:
     description: Especialista en integración de datos en Kazerne Dossin
     who-am-i-text: Ahora mismo trabajo como especialista en integración de datos en el Kazerne Dossin, Bélgica. Soy Doctor en Informática por la de Universidad de Oviedo, Máster en Ingeniería Web e Ingeniero Informático del Software por la misma universidad. Mi areas de investigación de interés son la Web Semántica, la integración y validación de datos, los grafos de conocimiento y las humanidades digitales.
     contact-me: Contactar
-    projects-text: Actualmente me encuentro trabajando a tiempo completo en el proyecto <a href="https://www.ehri-project.eu/about-ehri">EHRI-3</a>. También desarrollo y mantengo diferentes proyectos de código abierto entre los cuales se encuentran <a href="http://shexml.herminiogarcia.com/">ShExML</a>, <a href="https://github.com/herminiogg/dmaog">DMAOG</a> o <a href="https://github.com/herminiogg/XMLSchema2ShEx">XMLSchema2ShEx</a>. Visita mi cuenta de Github para saber en qué estoy trabajando ahora mismo.
+    projects-text: Actualmente me encuentro trabajando en el proyecto <a href="https://www.ehri-project.eu/about-ehri">EHRI</a> dentro de dos proyectos que corren en paralelo, el EHRI-3 y el EHRI-IP. También desarrollo y mantengo diferentes proyectos de código abierto entre los cuales se encuentran <a href="http://shexml.herminiogarcia.com/">ShExML</a>, <a href="https://github.com/herminiogg/dmaog">DMAOG</a> o <a href="https://github.com/herminiogg/XMLSchema2ShEx">XMLSchema2ShEx</a>. Visita mi cuenta de Github para saber en qué estoy trabajando ahora mismo.
     linkedin: linkedin
     github: github
     photography: Fotografía
