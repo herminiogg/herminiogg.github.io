@@ -35,6 +35,7 @@ lang: es
         <div class="otherInformation">
             <div class="typeOfVenue">
                 <span class="typeOfVenueTitle conference">Congreso</span>
+                <span class="typeOfVenueTitle award">Nominado a mejor artículo "In-Use"</span>
             </div>
             <div class="links">
                 <a href="../../research/bibtex/Garcia-Gonzalez23.bib" title="Descargar BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
