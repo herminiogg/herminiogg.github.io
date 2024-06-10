@@ -5,7 +5,7 @@ page-title: "Research"
 lang: en
 ---
 
-#### Upcoming
+#### 2024
 <div class="references">
     <div class="reference">
         <div class="mainInformation">
@@ -18,7 +18,10 @@ lang: en
                 <span class="typeOfVenueTitle conference">Conference</span>
             </div>
             <div class="links">
-                
+                <a href="../../research/bibtex/Dermentzi24.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://zenodo.org/records/11457688/files/DHB24_presentation_Dermentzi-et-al_Multilingual-Automated-Subject-Indexing.pdf?download=1" title="Download slides"><i class="fa fa-file-powerpoint-o fa-2x"></i></a>
+                <a href="https://zenodo.org/records/11457688/files/DHB24_abstract_Dermentzi-et-al_Multilingual-Automated-Subject-Indexing.pdf?download=1" title="See Open Access publication"><i class="ai ai-open-access ai-2x"></i></a>
+                <a href="https://doi.org/10.5281/zenodo.11457688" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
             </div>
         </div>
     </div>
