@@ -5,6 +5,25 @@ page-title: "Research"
 lang: en
 ---
 
+#### Upcoming
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Optimising the ShExML engine through code profiling: from turtle's pace to state-of-the-art performance</span>
+            <span class="authors">Herminio Garcia-Gonzalez</span>
+            <span class="venue">Semantic Web Journal</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle journal">Journal</span>
+            </div>
+            <div class="links">
+                <a href="https://www.semantic-web-journal.net/system/files/swj3736.pdf" title="Download preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
 #### 2024
 <div class="references">
     <div class="reference">

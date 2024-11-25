@@ -5,6 +5,24 @@ page-title: "Charlas y Divulgación"
 lang: es
 ---
 
+#### 2024
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">The EHRI Knowledge Graph, New Possibilities for the EHRI Portal’s Data</span>
+            <span class="venue">EHRI Webinars</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Presentación</span>
+            </div>
+            <div class="links">
+                <a href="https://docs.google.com/presentation/d/1Z08xW2a781_x2etErhn5ReV206QfEf1E_YfveSAnLtM/edit?usp=sharing" title="Ver diapositivas"><i class="fa fa-file-powerpoint-o fa-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
 #### 2023
 <div class="references">
     <div class="reference">
