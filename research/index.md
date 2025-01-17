@@ -9,8 +9,8 @@ lang: en
 <div class="references">
     <div class="reference">
         <div class="mainInformation">
-            <span class="title">Optimising the ShExML engine through code profiling: from turtle's pace to state-of-the-art performance</span>
-            <span class="authors">Herminio Garcia-Gonzalez</span>
+            <span class="title">Optimising the ShExML engine through code profiling: From turtle's pace to state-of-the-art performance</span>
+            <span class="authors">Herminio García-González</span>
             <span class="venue">Semantic Web Journal</span>
         </div>
         <div class="otherInformation">
@@ -18,7 +18,9 @@ lang: en
                 <span class="typeOfVenueTitle journal">Journal</span>
             </div>
             <div class="links">
-                <a href="https://www.semantic-web-journal.net/system/files/swj3736.pdf" title="Download preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+                <a href="../../research/bibtex/Garcia-Gonzalez24.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://content.iospress.com/download/semantic-web/sw243736?id=semantic-web%2Fsw243736" title="See Open Access publication"><i class="ai ai-open-access ai-2x"></i></a>
+                <a href="https://doi.org/10.5281/10.3233/SW-243736" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
             </div>
         </div>
     </div>
@@ -61,6 +63,7 @@ lang: en
             </div>
             <div class="links">
                 <a href="../../research/bibtex/Garcia-Gonzalez23.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://videolectures.net/videos/iswc2023_gonzalez_bryant_knowledge_graph" title="Watch recorded presentation"><i class="fa fa-film fa-2x"></i></a>
                 <a href="https://docs.google.com/presentation/d/1FaTdCJrbpOgOS7oWwtd-07Iyg35p1PTgMmnkOy473tY/edit?usp=sharing" title="Download slides"><i class="fa fa-file-powerpoint-o fa-2x"></i></a>
                 <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-47243-5_20.pdf?pdf=inline%20link" title="See Open Access publication"><i class="ai ai-open-access ai-2x"></i></a>
                 <a href="https://doi.org/10.1007/978-3-031-47243-5_20" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
