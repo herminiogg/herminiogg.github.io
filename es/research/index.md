@@ -20,7 +20,7 @@ lang: es
             <div class="links">
                 <a href="../../research/bibtex/Garcia-Gonzalez24.bib" title="Descargar BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
                 <a href="https://content.iospress.com/download/semantic-web/sw243736?id=semantic-web%2Fsw243736" title="Ver publicación Open Access"><i class="ai ai-open-access ai-2x"></i></a>
-                <a href="https://doi.org/10.5281/10.3233/SW-243736" title="Enlace al DOI"><i class="ai ai-doi ai-2x"></i></a>
+                <a href="https://doi.org/10.3233/SW-243736" title="Enlace al DOI"><i class="ai ai-doi ai-2x"></i></a>
             </div>
         </div>
     </div>
