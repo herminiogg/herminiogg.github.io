@@ -162,49 +162,72 @@ footer p {
   color: white;
 }
 
-.references {
+.references, .softwareGrid {
   margin-bottom: 4rem;
 }
 
-.reference {
+.softwareGrid {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.reference, .software, .project {
   display: flex;
   flex-direction: column;
   margin-bottom: 1rem;
 }
 
-.reference .mainInformation {
+.software, .project {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.software {
+  width: 45%;
+}
+
+.mainInformation {
   display: flex;
   flex-direction: column;
 }
 
-.reference .mainInformation span {
+.mainInformation span {
   overflow: hidden; 
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 
-.reference .mainInformation .title {
+.mainInformation p {
+  margin-bottom: 0;
+}
+
+.mainInformation .title {
   color: #CA6E45;
   font-weight: bold;
 }
 
-.reference .mainInformation .authors {
+.mainInformation .authors, .mainInformation .description, .mainInformation .description, .mainInformation .lifespan {
   font-size: 1.3rem;
   font-weight: lighter;
 }
 
-.reference .mainInformation .venue {
+.mainInformation .description {
+  font-style: italic;
+}
+
+.mainInformation .venue {
   font-size: 1.1rem;
   font-weight: 400;
   font-style: italic;
 }
 
-.reference .otherInformation {
+.otherInformation {
   display: flex;
   justify-content: space-between;
 }
 
-.reference .otherInformation .typeOfVenue .typeOfVenueTitle {
+.typeOfVenue .typeOfVenueTitle, .keywords .keyword{
   padding: 4px;
   color: white;
   font-size: 1.1rem;
@@ -212,33 +235,52 @@ footer p {
   border-radius: 4px;
 }
 
-.reference .otherInformation .typeOfVenue .conference {
+.typeOfVenue .conference, .project .otherInformation .keywords .category {
   background-color: #32d97d;
 }
 
-.reference .otherInformation .typeOfVenue .journal {
+.typeOfVenue .journal {
   background-color: #4681e0;
 }
 
-.reference .otherInformation .typeOfVenue .bookChapter {
+.typeOfVenue .bookChapter {
   background-color: #de3b26;
 }
 
-.reference .otherInformation .typeOfVenue .award {
+.typeOfVenue .award {
   background-color: #c000fa;
 }
 
-.reference .otherInformation .links a {
+.otherInformation .links a {
   color: inherit;
   font-size: 1rem;
 }
 
-.reference .otherInformation .links a {
+.otherInformation .links a {
   margin-left: 0.5rem;
 }
 
-.reference .otherInformation .links a:hover {
+.otherInformation .links a:hover {
   color: #CA6E45;
+}
+
+.software .otherInformation .keywords .language {
+  background-color: #de3b26;
+}
+
+.software .otherInformation .keywords .category, .project .otherInformation .keywords .fundingScheme {
+  background-color: #4681e0;
+}
+
+/* For responsive software page */
+@media (max-width: 1200px) {
+  .softwareGrid {
+    flex-direction: column;
+  }
+
+  .software {
+    width: 100%;
+  }
 }
 
 /* For responsive menu */
