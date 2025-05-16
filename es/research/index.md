@@ -5,8 +5,40 @@ page-title: "Investigación"
 lang: es
 ---
 
+#### En revisión
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Running a Data Integration Lab in the Context of the EHRI Project: Challenges, Lessons Learnt and Future Directions</span>
+            <span class="authors">Herminio García-González, Mike Bryant, Suzanne Swartz, Fabio Rovigo, Veerle Vanden Daelen</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle journal">Revista</span>
+            </div>
+            <div class="links">
+                <a href="https://doi.org/10.48550/arXiv.2505.02455" title="Ver preprint en arXiv"><i class="ai ai-arxiv ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
 #### Aceptado
 <div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Multilingual Automated Subject Indexing: a comparative study of LLMs vs alternative approaches in the context of the EHRI project</span>
+            <span class="authors">Maria Dermentzi, Mike Bryant, Fabio Rovigo and Herminio García-González</span>
+            <span class="venue">DH Benelux Journal</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle journal">Revista</span>
+            </div>
+            <div class="links">
+            </div>
+        </div>
+    </div>
     <div class="reference">
         <div class="mainInformation">
             <span class="title">Optimising the ShExML engine through code profiling: From turtle's pace to state-of-the-art performance</span>
