@@ -9,6 +9,20 @@ lang: en
 <div class="references">
     <div class="reference">
         <div class="mainInformation">
+            <span class="title">Generating CodeMeta using declarative mapping rules: An open-ended approach using ShExML</span>
+            <span class="authors">Herminio García-González</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle journal">Journal</span>
+            </div>
+            <div class="links">
+                <a href="https://doi.org/10.48550/arXiv.2510.09172" title="See preprint on arXiv"><i class="ai ai-arxiv ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="reference">
+        <div class="mainInformation">
             <span class="title">Running a Data Integration Lab in the Context of the EHRI Project: Challenges, Lessons Learnt and Future Directions</span>
             <span class="authors">Herminio García-González, Mike Bryant, Suzanne Swartz, Fabio Rovigo, Veerle Vanden Daelen</span>
         </div>
