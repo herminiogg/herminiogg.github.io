@@ -9,7 +9,7 @@ lang: es
 <div class="references">
     <div class="reference">
         <div class="mainInformation">
-            <span class="title">Generating CodeMeta using declarative mapping rules: An open-ended approach using ShExML</span>
+            <span class="title">Generating CodeMeta through declarative mapping rules: An open-ended approach using ShExML</span>
             <span class="authors">Herminio García-González</span>
         </div>
         <div class="otherInformation">
