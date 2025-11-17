@@ -42,7 +42,7 @@ lang: es
     <div class="reference">
         <div class="mainInformation">
             <span class="title">Multilingual Automated Subject Indexing: a comparative study of LLMs vs alternative approaches in the context of the EHRI project</span>
-            <span class="authors">Maria Dermentzi, Mike Bryant, Fabio Rovigo and Herminio García-González</span>
+            <span class="authors">Maria Dermentzi, Mike Bryant, Fabio Rovigo, Herminio García-González</span>
             <span class="venue">DH Benelux Journal</span>
         </div>
         <div class="otherInformation">
@@ -53,6 +53,31 @@ lang: es
             </div>
         </div>
     </div>
+</div>
+
+#### 2026
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Stop writing repetitive code! Scaffolding a semantic data access layer to abstract developers from semantic technologies</span>
+            <span class="authors">Herminio García-González, Mike Bryant, Veerle Vanden Daelen</span>
+            <span class="venue">Journal of Web Semantics</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle journal">Revista</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Garcia-Gonzalez26a.bib" title="Descargar BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://www.sciencedirect.com/science/article/pii/S1570826825000150/pdfft?md5=ced06656b5d234b802e1e51d2debadc2&pid=1-s2.0-S1570826825000150-main.pdf" title="Ver publicación Open Access"><i class="ai ai-open-access ai-2x"></i></a>
+                <a href="https://doi.org/10.1016/j.websem.2025.100874" title="Enlace al DOI"><i class="ai ai-doi ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+#### 2025
+<div class="references">
     <div class="reference">
         <div class="mainInformation">
             <span class="title">Optimising the ShExML engine through code profiling: From turtle's pace to state-of-the-art performance</span>
@@ -64,8 +89,8 @@ lang: es
                 <span class="typeOfVenueTitle journal">Revista</span>
             </div>
             <div class="links">
-                <a href="../../research/bibtex/Garcia-Gonzalez24.bib" title="Descargar BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
-                <a href="https://content.iospress.com/download/semantic-web/sw243736?id=semantic-web%2Fsw243736" title="Ver publicación Open Access"><i class="ai ai-open-access ai-2x"></i></a>
+                <a href="../../research/bibtex/Garcia-Gonzalez25.bib" title="Descargar BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://journals.sagepub.com/doi/reader/10.3233/SW-243736" title="Ver publicación Open Access"><i class="ai ai-open-access ai-2x"></i></a>
                 <a href="https://doi.org/10.3233/SW-243736" title="Enlace al DOI"><i class="ai ai-doi ai-2x"></i></a>
             </div>
         </div>
