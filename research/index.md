@@ -37,23 +37,6 @@ lang: en
     </div>
 </div>
 
-#### Upcoming
-<div class="references">
-    <div class="reference">
-        <div class="mainInformation">
-            <span class="title">Multilingual Automated Subject Indexing: a comparative study of LLMs vs alternative approaches in the context of the EHRI project</span>
-            <span class="authors">Maria Dermentzi, Mike Bryant, Fabio Rovigo, Herminio García-González</span>
-            <span class="venue">DH Benelux Journal</span>
-        </div>
-        <div class="otherInformation">
-            <div class="typeOfVenue">
-                <span class="typeOfVenueTitle journal">Journal</span>
-            </div>
-            <div class="links">
-            </div>
-        </div>
-    </div>
-</div>
 
 #### 2026
 <div class="references">
@@ -78,6 +61,23 @@ lang: en
 
 #### 2025
 <div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Multilingual Automated Subject Indexing: a Comparative Study of LLMs vs Alternative Approaches in the Context of the EHRI Project</span>
+            <span class="authors">Maria Dermentzi, Mike Bryant, Fabio Rovigo, Herminio García-González</span>
+            <span class="venue">DH Benelux Journal</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle journal">Journal</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Dermentzi25.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://journal.dhbenelux.org/wp-content/uploads/2025/11/V7_P3_Dermentzi_DH_Benelux_Journal_Volume_7___2025.pdf" title="See Open Access publication"><i class="ai ai-open-access ai-2x"></i></a>
+                <a href="https://doi.org/10.5281/zenodo.17648379" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
     <div class="reference">
         <div class="mainInformation">
             <span class="title">Optimising the ShExML engine through code profiling: From turtle's pace to state-of-the-art performance</span>
