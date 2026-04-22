@@ -37,6 +37,25 @@ lang: en
     </div>
 </div>
 
+#### Upcoming
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Implementing the EHRI-KG: From Declarative Mapping Rules to a Three-Layered KG Construction Architecture</span>
+            <span class="authors">Herminio García-González, Mike Bryant</span>
+            <span class="venue">7th International Workshop on Knowledge Graph Construction co-located with 23rd Extended Semantic Web Conference (ESWC 2026)</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Conference</span>
+            </div>
+            <div class="links">
+                <a href="https://docs.google.com/presentation/d/16YU70jujRGtPfpOFeaqFgtDgpoyfOORVJ68lTJfhPzA/edit?usp=sharing" title="Download slides"><i class="fa fa-file-powerpoint-o fa-2x"></i></a>
+                <a href="https://openreview.net/attachment?id=sgxEw3aZmh&name=pdf" title="Download preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
 
 #### 2026
 <div class="references">
