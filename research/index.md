@@ -9,20 +9,6 @@ lang: en
 <div class="references">
     <div class="reference">
         <div class="mainInformation">
-            <span class="title">Generating CodeMeta through declarative mapping rules: An open-ended approach using ShExML</span>
-            <span class="authors">Herminio García-González</span>
-        </div>
-        <div class="otherInformation">
-            <div class="typeOfVenue">
-                <span class="typeOfVenueTitle journal">Journal</span>
-            </div>
-            <div class="links">
-                <a href="https://doi.org/10.48550/arXiv.2510.09172" title="See preprint on arXiv"><i class="ai ai-arxiv ai-2x"></i></a>
-            </div>
-        </div>
-    </div>
-    <div class="reference">
-        <div class="mainInformation">
             <span class="title">Running a Data Integration Lab in the Context of the EHRI Project: Challenges, Lessons Learnt and Future Directions</span>
             <span class="authors">Herminio García-González, Mike Bryant, Suzanne Swartz, Fabio Rovigo, Veerle Vanden Daelen</span>
         </div>
@@ -41,6 +27,42 @@ lang: en
 <div class="references">
     <div class="reference">
         <div class="mainInformation">
+            <span class="title">Towards a RAG, GraphRAG and MCP Implementation Over the EHRI-KG to Improve LLM Responses on Holocaust Archival Data</span>
+            <span class="authors">Herminio García-González, Xiao Xu, Mike Bryant</span>
+            <span class="venue">RAGE-KG 2026: The Third International Workshop on Retrieval-Augmented Generation Enabled by Knowledge Graphs, co-located with ISWC 2026</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Conference</span>
+            </div>
+            <div class="links">
+                <a href="../../research/papers/ehri-chat-rage-kg-camera-ready.pdf" title="Download preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+#### 2026
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">Generating CodeMeta through declarative mapping rules: An open-ended approach using ShExML</span>
+            <span class="authors">Herminio García-González</span>
+            <span class="venue">Scientific Data</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle journal">Journal</span>
+            </div>
+            <div class="links">
+                <a href="../../research/bibtex/Garcia-Gonzalez26c.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
+                <a href="https://www.nature.com/articles/s41597-026-07877-x_reference.pdf" title="See Open Access publication"><i class="ai ai-open-access ai-2x"></i></a>
+                <a href="https://doi.org/10.1038/s41597-026-07877-x" title="DOI link"><i class="ai ai-doi ai-2x"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="reference">
+        <div class="mainInformation">
             <span class="title">Implementing the EHRI-KG: From Declarative Mapping Rules to a Three-Layered KG Construction Architecture</span>
             <span class="authors">Herminio García-González, Mike Bryant</span>
             <span class="venue">7th International Workshop on Knowledge Graph Construction co-located with 23rd Extended Semantic Web Conference (ESWC 2026)</span>
@@ -50,15 +72,12 @@ lang: en
                 <span class="typeOfVenueTitle conference">Conference</span>
             </div>
             <div class="links">
+                <a href="../../research/bibtex/Garcia-Gonzalez26b.bib" title="Download BibTeX"><i class="fa fa-cloud-download fa-2x"></i></a>
                 <a href="https://docs.google.com/presentation/d/16YU70jujRGtPfpOFeaqFgtDgpoyfOORVJ68lTJfhPzA/edit?usp=sharing" title="Download slides"><i class="fa fa-file-powerpoint-o fa-2x"></i></a>
-                <a href="https://openreview.net/attachment?id=sgxEw3aZmh&name=pdf" title="Download preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
+                <a href="https://ceur-ws.org/Vol-4245/paper7.pdf" title="Download from CEUR-WS"><i class="ai ai-ceur ai-2x"></i></a>
             </div>
         </div>
     </div>
-</div>
-
-#### 2026
-<div class="references">
     <div class="reference">
         <div class="mainInformation">
             <span class="title">Stop writing repetitive code! Scaffolding a semantic data access layer to abstract developers from semantic technologies</span>
