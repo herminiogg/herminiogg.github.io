@@ -5,6 +5,24 @@ page-title: "Talks & Dissemination"
 lang: en
 ---
 
+#### 2026
+<div class="references">
+    <div class="reference">
+        <div class="mainInformation">
+            <span class="title">EHRI-KG: A gentle introduction for the non-initiated</span>
+            <span class="venue">EHRI-BE consortium meeting, 20th October 2026, Mechelen</span>
+        </div>
+        <div class="otherInformation">
+            <div class="typeOfVenue">
+                <span class="typeOfVenueTitle conference">Presentation</span>
+            </div>
+            <div class="links">
+                <a href="https://docs.google.com/presentation/d/1uAOlnwagubvTuia9VkEPz4Xg38UdWWUCPT1eFhVQeyw/edit?usp=sharing" title="Download slides"><i class="fa fa-file-powerpoint-o fa-2x"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
 #### 2024
 <div class="references">
     <div class="reference">

@@ -36,6 +36,7 @@ lang: en
                 <span class="typeOfVenueTitle conference">Conference</span>
             </div>
             <div class="links">
+                <a href="https://docs.google.com/presentation/d/1cLhSp7SRATdmJYCJqFzEAIz7csu1ccVd_1Hu7QapAzs/edit?usp=sharing" title="Download slides"><i class="fa fa-file-powerpoint-o fa-2x"></i></a>
                 <a href="../../research/papers/ehri-chat-rage-kg-camera-ready.pdf" title="Download preprint"><i class="fa fa-file-pdf-o fa-2x"></i></a>
             </div>
         </div>
